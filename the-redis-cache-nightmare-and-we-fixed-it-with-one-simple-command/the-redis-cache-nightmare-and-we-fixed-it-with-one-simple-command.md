@@ -24,4 +24,6 @@ The problem wasn’t with Redis or the spring-data-redis library. It was our ove
 
 Lesson learned: Keep it simple, use FLUSHALL. Redis remains our caching king.
 
+#redis #caching #flushall #flushallasync
+
 ![Redis Logo, Image Credit: Pratik Chaudhari](./redis.png)

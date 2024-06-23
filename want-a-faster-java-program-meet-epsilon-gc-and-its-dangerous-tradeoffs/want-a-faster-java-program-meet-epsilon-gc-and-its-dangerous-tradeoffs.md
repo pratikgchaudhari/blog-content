@@ -28,4 +28,6 @@ Imagine yourself as Tony Stark: wield the power briefly, save the day, but with 
 
 Next time you want to test your program’s performance without garbage collection and don’t mind seeing it crash, you know which GC to choose.
 
+#java #garbagecollector #gc #epsilongc #memory #memorymanagement
+
 ![Tony Stark Wielding the Infinity Gauntlet, Image Credit: Pratik Chaudhari](./tony-stark-infinty-gauntlet.gif)
