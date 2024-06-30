@@ -6,6 +6,8 @@ For those unfamiliar, Java’s `finalize()` method allowed objects to clean up a
 
 Given that both Java and JavaScript have automated garbage collection, this seems like a handy feature. However, there’s a significant catch: neither language guarantees that the cleanup code will run immediately after garbage collection—or even at all.
 
+The Grim Reaper of garbage collection might never swing his scythe, leaving your cleanup code in limbo.
+
 Yes, you read that correctly. Your cleanup code might never run. So why include such a feature?
 
 In Java’s case, `finalize()` was a poor design choice that was later corrected. Surprisingly, JavaScript introduced the `FinalizationRegistry` class after Java had already deprecated `finalize()` and offered better alternatives.
