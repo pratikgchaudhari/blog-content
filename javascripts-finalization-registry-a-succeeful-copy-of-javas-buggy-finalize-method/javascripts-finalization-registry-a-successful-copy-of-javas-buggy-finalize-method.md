@@ -25,6 +25,8 @@ In Google Chrome, you need to click the `Collect Garbage` icon in the Performanc
 
 Perhaps there’s a scenario where `FinalizationRegistry` shines, but so far, I haven’t found one.
 
-Want to see code? Head over to the following gists:
+Want to see code? Head over to the following gist:
+
+https://gist.github.com/pratikgchaudhari/35e7af37b4df369d02103f05db5782c1
 
 #java #javascript #finalize #finalizationregistry #garbagecollection
