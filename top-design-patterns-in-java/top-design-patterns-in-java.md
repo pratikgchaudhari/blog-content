@@ -1,4 +1,4 @@
-### Chain of Responsibility Design Pattern in Java
+### Top Design Patterns in Java
 
 1. **Singleton** - Ensures one instance, global access (e.g., `Runtime`).
 2. **Factory Method** - Creates objects via subclasses (e.g., `Calendar.getInstance()`).
