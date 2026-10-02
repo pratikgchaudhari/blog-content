@@ -1,4 +1,11 @@
-### Why one should use Varargs judiciously in Java?
+---
+title: Why one should use Varargs judiciously in Java?
+date: 2026-01-17
+summary: Balance the convenience of varargs with array allocation costs and generic type-safety concerns.
+tag: Java
+draft: false
+related: covariant-arrays-in-java
+---
 
 - Varargs simplify APIs by eliminating explicit array creation from callers
 - Great for methods like String.format(), Arrays.asList(), List.of()

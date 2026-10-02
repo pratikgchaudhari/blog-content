@@ -1,4 +1,11 @@
-### Want a Faster Java Program? Meet Epsilon GC (and Its Dangerous Trade-Offs)
+---
+title: Want a Faster Java Program? Meet Epsilon GC (and Its Dangerous Trade-Offs)
+date: 2024-06-22
+summary: An exploration of Epsilon GC and the memory trade-offs of running without garbage collection.
+tag: Java
+draft: false
+related: types-of-garbage-collectors-in-java
+---
 
 Ever wondered how much faster your Java program could run without a Garbage Collector (GC)? We're talking 30 to 50 percent faster. Seriously.
 
@@ -30,4 +37,4 @@ Next time you want to test your program’s performance without garbage collecti
 
 #java #garbagecollector #gc #epsilongc #memory #memorymanagement
 
-![Tony Stark Wielding the Infinity Gauntlet, Image Credit: Pratik Chaudhari](./tony-stark-infinty-gauntlet.gif)
+![Tony Stark Wielding the Infinity Gauntlet, Image Credit: Pratik Chaudhari](/images/posts/want-a-faster-java-program-meet-epsilon-gc-and-its-dangerous-tradeoffs/tony-stark-infinty-gauntlet.gif)
