@@ -6,8 +6,6 @@ tag: React, hooks, useState, useRef
 draft: false
 ---
 
-# useState vs useRef in React
-
 - **Purpose**
   - `useState`: Manages component state that should trigger a re-render when updated.
   - `useRef`: Holds a mutable value that persists across renders without triggering a re-render.
