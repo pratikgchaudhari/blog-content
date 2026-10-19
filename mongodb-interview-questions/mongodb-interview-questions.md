@@ -6,10 +6,6 @@ tag: mongodb, interview-questions, nosql, database, backend, java-spring
 draft: false
 ---
 
-# Top 50 MongoDB Interview Questions and Answers
-
-MongoDB interview questions usually test data modeling, query patterns, indexes, aggregation, replication, sharding, and consistency. Below are 50 high-frequency questions with concise answers aimed at backend and Java/Spring roles.
-
 ### Fundamentals
 
 **1. What is MongoDB?**  
