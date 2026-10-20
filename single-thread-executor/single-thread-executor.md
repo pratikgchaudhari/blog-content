@@ -4,6 +4,7 @@ date: 2026-10-19
 summary: How Executors.newSingleThreadExecutor guarantees sequential, ordered execution on exactly one thread.
 tag: java, concurrency, executors, thread-pool
 draft: false
+related: executor-service-types-in-java
 ---
 
 A single-thread executor is created with `Executors.newSingleThreadExecutor()`. It guarantees that tasks run one after another on exactly one thread, with strict ordering and no concurrent execution.

@@ -1,3 +1,12 @@
+---
+title: Types of ExecutorService in Java
+date: 2025-09-16
+summary: Brief description of various types of ExecutorService in Java.
+tag: Java
+draft: false
+related: cached-thread-pool-executor,single-thread-executor,thread-per-task-executor
+---
+
 ### Types of ExecutorService in Java
 
 1. **FixedThreadPool** (`Executors.newFixedThreadPool(int n)`): Creates a pool with a fixed number of threads. Tasks are queued if all threads are busy. Ideal for consistent workloads.
