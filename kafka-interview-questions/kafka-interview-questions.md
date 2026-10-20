@@ -326,7 +326,3 @@ draft: false
 
 100. **When should you use Kafka versus a traditional database or message queue?**  
     Use Kafka when you need durable, replayable event streams, multiple independent consumers, high throughput, and event-driven architectures. Use a database for transactional CRUD with complex queries; use a traditional queue for simple point-to-point task distribution with rich routing.
-
----
-
-*Generated on 2026-10-20. Answers are concise and focused on commonly asked interview topics, including modern Kafka 4.x features (KRaft, new rebalance protocol, share groups).*
