@@ -6,8 +6,6 @@ tag: [mongodb, indexes, interview, database, nosql]
 draft: false
 ---
 
-# Top 100 MongoDB Indexes Interview Questions
-
 ## Basics of Indexes
 
 1. **What is an index in MongoDB?**  
