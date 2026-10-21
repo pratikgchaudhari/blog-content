@@ -329,7 +329,3 @@ draft: false
 
 100. **What are best practices for Spring Boot applications?**  
     Prefer constructor injection, keep transactions short, use profiles, externalize config, secure Actuator, use Flyway/Liquibase, write slice tests, monitor with Actuator + metrics, and follow the principle of convention over configuration while overriding only when necessary.
-
----
-
-*Compiled for interview preparation focusing on practical, commonly asked topics relevant to Spring Boot 3.x and 4.x in 2026.*
