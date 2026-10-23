@@ -17,7 +17,7 @@ It eliminates vendor lock-in and boilerplate by giving a single API (`ChatClient
 **3. How does Spring AI differ from calling an LLM SDK directly?**  
 It adds Spring Boot auto-configuration, advisors (memory, RAG, logging), structured output, tool calling, observability, and a fluent API while remaining provider-agnostic.
 
-**4. Spring AI vs LangChain4j â key differences?**  
+**4. Spring AI vs LangChain4j — key differences?**  
 Spring AI is the official Spring abstraction layer, tightly integrated with Boot and lighter for Spring shops. LangChain4j is a fuller independent framework with richer agent/RAG primitives but less native Spring integration.
 
 **5. What are the main components of Spring AI?**  
@@ -75,10 +75,10 @@ Prompt is the low-level message list; ChatClient builds and enriches it via advi
 ## Structured Output
 
 **21. What is structured output in Spring AI?**  
-Mapping the modelâs text response into a Java type (record, POJO, or Map) via `.entity(Class)`.
+Mapping the model’s text response into a Java type (record, POJO, or Map) via `.entity(Class)`.
 
 **22. How does structured output work internally?**  
-Spring AI instructs the model (via system prompt or function calling) to return JSON matching the target typeâs schema, then deserializes it.
+Spring AI instructs the model (via system prompt or function calling) to return JSON matching the target type’s schema, then deserializes it.
 
 **23. Example of structured output?**  
 `chatClient.prompt().user("Extract order").call().entity(Order.class)`.
@@ -87,7 +87,7 @@ Spring AI instructs the model (via system prompt or function calling) to return 
 Deserialization fails; you can fall back to raw content or retry with better prompting.
 
 **25. Can you use records with structured output?**  
-Yes â records are the recommended approach for immutable structured responses.
+Yes — records are the recommended approach for immutable structured responses.
 
 ## Advisors
 
@@ -110,10 +110,10 @@ Classic RAG advisor: embeds the question, searches VectorStore, injects retrieve
 QuestionAnswerAdvisor is the simple out-of-the-box RAG. RetrievalAugmentationAdvisor is the modular, extensible RAG pipeline (retriever, transformer, etc.).
 
 **32. What is ToolCallingAdvisor?**  
-Manages the multi-turn tool-calling loop (model requests tool â execute â send result back) inside the ChatClient chain (centralized in Spring AI 2.x).
+Manages the multi-turn tool-calling loop (model requests tool → execute → send result back) inside the ChatClient chain (centralized in Spring AI 2.x).
 
 **33. Can you write a custom Advisor?**  
-Yes â implement CallAdvisor / StreamAdvisor and add it to the chain.
+Yes — implement CallAdvisor / StreamAdvisor and add it to the chain.
 
 **34. How does Advisor order work?**  
 Lower order values run first. Memory and tool advisors usually run before RAG.
@@ -167,7 +167,7 @@ Tests and prototypes only; not durable or scalable for production.
 Retrieve relevant document chunks via embeddings, inject them into the prompt, then generate an answer grounded in that context.
 
 **49. What are the two main RAG flows?**  
-Ingestion (load â split â embed â store) and Query (embed question â retrieve â augment prompt â generate).
+Ingestion (load → split → embed → store) and Query (embed question → retrieve → augment prompt → generate).
 
 **50. Why is document chunking necessary?**  
 Models have context-window limits; small chunks improve retrieval precision.
@@ -291,7 +291,7 @@ Retry with exponential backoff, use provider-specific rate-limit headers, or que
 Yes. Spring Boot 3+ and virtual threads work well for the blocking I/O of model calls.
 
 **86. What is the ETL framework in Spring AI?**  
-DocumentReader â DocumentTransformer (splitter) â DocumentWriter (VectorStore) pipeline for ingestion.
+DocumentReader → DocumentTransformer (splitter) → DocumentWriter (VectorStore) pipeline for ingestion.
 
 **87. How do you update or delete documents in a VectorStore?**  
 Use metadata filters to identify them, then `delete` and re-`add`. Some stores support upsert by ID.
@@ -308,13 +308,13 @@ Precision/recall of retrieval, faithfulness of answers to context, and human or 
 ## Scenario and Best-Practice Questions
 
 **91. Design a document Q&A service.**  
-Ingestion job (PDF/Markdown â split â embed â PgVector), ChatClient with QuestionAnswerAdvisor + memory, REST endpoint, metadata filters by tenant.
+Ingestion job (PDF/Markdown → split → embed → PgVector), ChatClient with QuestionAnswerAdvisor + memory, REST endpoint, metadata filters by tenant.
 
 **92. How would you implement multi-tenant RAG?**  
 Store tenant ID in document metadata and always apply a filter expression on search.
 
 **93. When should you not use RAG?**  
-When the knowledge is already in the modelâs training data, the dataset is tiny, or latency/cost constraints are extreme.
+When the knowledge is already in the model’s training data, the dataset is tiny, or latency/cost constraints are extreme.
 
 **94. How do you implement an agent that can call multiple tools?**  
 Register several `@Tool` methods; let ToolCallingAdvisor handle the loop; add confirmation for destructive actions.
