@@ -1,4 +1,10 @@
-### Soft Links in Linux
+---
+title: Soft Links in Linux
+date: 2025-09-12
+summary: Create and inspect symbolic links, with examples for files, directories, and relative paths.
+tag: Linux
+draft: false
+---
 
 Soft links are pointers to files or directories, allowing access from multiple locations without duplicating the original data.
 - **Use the `ln` command**:

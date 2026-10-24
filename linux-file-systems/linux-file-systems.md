@@ -1,4 +1,10 @@
-### Types of File Systems in Linux
+---
+title: Types of File Systems in Linux
+date: 2025-09-11
+summary: Compare Linux file systems by their features and typical uses.
+tag: Linux
+draft: false
+---
 
 | **File System** | **Description** | **Key Features** | **Use Case** |
 |-----------------|-----------------|------------------|--------------|

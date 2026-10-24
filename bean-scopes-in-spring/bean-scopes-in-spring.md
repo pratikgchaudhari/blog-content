@@ -1,4 +1,10 @@
-### Bean Scopes in Spring
+---
+title: Bean Scopes in Spring
+date: 2025-08-31
+summary: A reference to Spring bean scopes and the lifetimes of the objects they manage.
+tag: Spring
+draft: false
+---
 
 1. **Singleton** (Default)
     - Only one instance of the bean is created per Spring IoC container.

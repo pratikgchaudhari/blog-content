@@ -1,4 +1,10 @@
-### Create Root vs Hydrate Root in React.js
+---
+title: Create Root vs Hydrate Root in React.js
+date: 2025-09-26
+summary: Compare creating a client-rendered React root with hydrating HTML rendered on the server.
+tag: React
+draft: false
+---
 
 | **Feature**            | **createRoot**                                                                  | **hydrateRoot**                                                                   |
 |------------------------|---------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|

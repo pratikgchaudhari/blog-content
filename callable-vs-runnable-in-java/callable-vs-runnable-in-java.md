@@ -1,4 +1,10 @@
-### Runnable vs Callable in Java
+---
+title: Runnable vs Callable in Java
+date: 2025-09-28
+summary: Compare Runnable and Callable by return values, exception handling, and task execution.
+tag: Java
+draft: false
+---
 
 | **Feature**                    | **Runnable**                                                                 | **Callable**                                                               |
 |--------------------------------|------------------------------------------------------------------------------|----------------------------------------------------------------------------|

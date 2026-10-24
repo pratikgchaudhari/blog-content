@@ -1,4 +1,10 @@
-### Why one should override `Object.clone()` judiciously?
+---
+title: Why one should override Object.clone() judiciously?
+date: 2026-01-15
+summary: The pitfalls of Cloneable, shallow copies, mutable state, and inheritance in Java object copying.
+tag: Java
+draft: false
+---
 
 - Cloneable is a flawed marker interface with no methods
 - Object.clone() performs shallow field-by-field copy by default

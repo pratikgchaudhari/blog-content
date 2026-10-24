@@ -1,4 +1,10 @@
-### @Controller vs @RestController in Spring Boot
+---
+title: @Controller vs @RestController in Spring Boot
+date: 2025-08-30
+summary: Compare Spring controllers that render views with REST controllers that return response data.
+tag: Spring
+draft: false
+---
 
 - Purpose:
   - @Controller: Marks a class as a web controller for handling HTTP requests, typically returning view names for rendering. 

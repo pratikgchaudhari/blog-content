@@ -1,4 +1,10 @@
-### Vue.js Directives
+---
+title: Vue.js Directives
+date: 2025-09-02
+summary: A reference to Vue directives for binding, forms, conditional rendering, and lists.
+tag: Vue.js
+draft: false
+---
 
 - **v-bind**: Binds an attribute to an expression, dynamically updating the attribute’s value (e.g., `:src="imageUrl"`).
 - **v-model**: Creates a two-way binding on form inputs or components, syncing data with user input.

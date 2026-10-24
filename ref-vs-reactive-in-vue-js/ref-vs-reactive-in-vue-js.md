@@ -1,4 +1,10 @@
-### Vue.js `ref()` vs `reactive()`
+---
+title: Vue.js ref() vs reactive()
+date: 2025-08-31
+summary: Compare ref and reactive for managing values and objects in Vue's reactivity system.
+tag: Vue.js
+draft: false
+---
 
 | **Aspect**                | **`ref()`**                                                                 | **`reactive()`**                                                             |
 |---------------------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------------|

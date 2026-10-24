@@ -1,4 +1,11 @@
-### Linux Ricing
+---
+title: Linux Ricing
+date: 2025-09-13
+summary: An introduction to customizing Linux desktops, themes, window managers, and workflows.
+tag: Linux
+draft: false
+related: top-5-linux-terminals
+---
 
 - **Linux Ricing**: Customizing Linux desktop environments for aesthetics and functionality.
 - **Origin**: Term derived from "rice" (customizing cars), applied to Linux UI tweaks.

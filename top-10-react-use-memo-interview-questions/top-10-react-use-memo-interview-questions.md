@@ -1,4 +1,10 @@
-### Top 10 React.js useMemo() Interview Questions
+---
+title: Top 10 React.js useMemo() Interview Questions
+date: 2025-09-14
+summary: Interview questions on memoized calculations, dependencies, and when useMemo is useful.
+tag: React
+draft: false
+---
 
 1. **What is the useMemo() hook in React.js?**  
    > It memoizes a computed value to optimize performance by preventing unnecessary recalculations.

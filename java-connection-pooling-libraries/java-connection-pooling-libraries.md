@@ -1,4 +1,10 @@
-### Java Connection Pooling Libraries
+---
+title: Java Connection Pooling Libraries
+date: 2025-09-01
+summary: An overview of JDBC connection pooling libraries and their distinguishing features.
+tag: Java
+draft: false
+---
 
 1. **HikariCP**
     - A high-performance JDBC connection pool, known for its speed, reliability, and lightweight design. Optimized for low latency and high throughput.

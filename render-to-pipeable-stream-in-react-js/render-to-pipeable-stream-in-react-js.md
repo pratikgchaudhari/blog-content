@@ -1,4 +1,10 @@
-### renderToPipeableStream() in React.js
+---
+title: renderToPipeableStream() in React.js
+date: 2025-10-01
+summary: Stream server-rendered React HTML in Node.js with renderToPipeableStream and Suspense.
+tag: React
+draft: false
+---
 
 - `renderToPipeableStream` (React 18, `react-dom/server`) renders React components to a Node.js stream for server-side rendering with streaming HTML.
 - Streams HTML incrementally, reducing TTFB, and supports Suspense for async rendering and progressive hydration.

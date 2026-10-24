@@ -1,4 +1,10 @@
-### Top 10 must-have Linux Tools
+---
+title: Top 10 must-have Linux Tools
+date: 2025-09-20
+summary: A selection of Linux tools for editing, terminal sessions, monitoring, transfers, and development.
+tag: Linux
+draft: false
+---
 
 1. Vim/Emacs - Powerful text editors for coding, editing configs, or managing files. Vim is lightweight and keyboard-driven; Emacs is extensible with a vast ecosystem.
 2. tmux - Terminal multiplexer for managing multiple sessions, splitting windows, and persisting workflows across disconnects.

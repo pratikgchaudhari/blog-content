@@ -1,4 +1,10 @@
-### Top 10 Omarchy Features
+---
+title: Top 10 Omarchy Features
+date: 2025-09-10
+summary: A look at Omarchy's desktop workflow, customization options, and included developer tools.
+tag: Linux
+draft: false
+---
 
 - **Keyboard-Centric Navigation**: Streamlined workflow with hotkeys like Super + B for browser and Super + Return for terminal, minimizing mouse use.
 - **Hyperland Tiling Window Manager**: Dynamic window management for efficient multitasking, with smooth animations and customizable layouts.

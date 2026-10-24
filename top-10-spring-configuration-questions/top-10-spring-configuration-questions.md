@@ -1,4 +1,10 @@
-### Top Spring Configuration Questions
+---
+title: Top Spring Configuration Questions
+date: 2025-10-06
+summary: Questions and answers on XML, annotations, Java configuration, and Spring bean definitions.
+tag: Spring
+draft: false
+---
 
 1. What is a Spring configuration file?  
    A Spring configuration file is typically an XML file (e.g., applicationContext.xml) that defines beans, their dependencies, and other application settings for the Spring IoC container to manage.

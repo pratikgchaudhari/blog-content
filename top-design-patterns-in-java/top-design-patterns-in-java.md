@@ -1,4 +1,10 @@
-### Top Design Patterns in Java
+---
+title: Top Design Patterns in Java
+date: 2025-09-20
+summary: A reference to common design patterns and examples of their use in Java.
+tag: Java
+draft: false
+---
 
 1. **Singleton** - Ensures one instance, global access (e.g., `Runtime`).
 2. **Factory Method** - Creates objects via subclasses (e.g., `Calendar.getInstance()`).

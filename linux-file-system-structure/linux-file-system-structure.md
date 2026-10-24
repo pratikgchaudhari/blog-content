@@ -1,4 +1,10 @@
-### Linux File System Structure
+---
+title: Linux File System Structure
+date: 2025-09-07
+summary: A tour of the Linux directory tree and the roles of its main system directories.
+tag: Linux
+draft: false
+---
 
 The Linux file system structure follows a hierarchical, tree-like organization starting from the root directory, denoted as `/`. It adheres to the Filesystem Hierarchy Standard (FHS), which defines the purpose of key directories. Below is a concise description of the Linux file system structure and the roles of its primary directories:
 

@@ -1,4 +1,10 @@
-### Concurrent Collections in Java
+---
+title: Concurrent Collections in Java
+date: 2025-09-04
+summary: An overview of Java's concurrent maps, sets, queues, and other thread-safe collections.
+tag: Java
+draft: false
+---
 
 - **ConcurrentHashMap**: A thread-safe hash table supporting full concurrency of retrievals and high expected concurrency for updates.
 - **ConcurrentSkipListMap**: A thread-safe sorted map using a skip list data structure, allowing concurrent modifications and iterations.

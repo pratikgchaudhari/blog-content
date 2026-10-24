@@ -1,4 +1,10 @@
-### Async Components in Vue.js
+---
+title: Async Components in Vue.js
+date: 2025-09-07
+summary: Load Vue components on demand with dynamic imports, loading states, and error handling.
+tag: Vue.js
+draft: false
+---
 
 - **Definition**: Async components in Vue.js allow loading components on-demand, improving performance.
 - **Syntax**: Define using `defineAsyncComponent(() => import('Component.vue'))`.

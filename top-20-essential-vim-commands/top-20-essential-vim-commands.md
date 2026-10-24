@@ -1,4 +1,10 @@
-### Top 20 Essential Vim commands
+---
+title: Top 20 Essential Vim commands
+date: 2025-09-06
+summary: A quick reference to Vim commands for editing, navigation, saving, and quitting.
+tag: Linux
+draft: false
+---
 
 1. `:w` - Save the current file.
 2. `:q` - Quit Vim.

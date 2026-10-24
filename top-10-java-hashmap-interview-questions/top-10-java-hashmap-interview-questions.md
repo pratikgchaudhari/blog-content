@@ -1,4 +1,10 @@
-### Top 10 Java HashMap Interview Questions
+---
+title: Top 10 Java HashMap Interview Questions
+date: 2025-09-05
+summary: Interview questions on HashMap internals, hashing, collisions, performance, and concurrency.
+tag: Java
+draft: false
+---
 
 - **What is a HashMap in Java?**
     - A HashMap is a part of Java's Collections Framework that stores key-value pairs, allowing fast retrieval using keys. It implements the Map interface and uses a hash table for storage.

@@ -1,4 +1,10 @@
-### Vue.js Lifecycle Hooks
+---
+title: Vue.js Lifecycle Hooks
+date: 2025-08-31
+summary: A reference to the hooks that run as Vue components are created, mounted, updated, and removed.
+tag: Vue.js
+draft: false
+---
 
 - **beforeCreate**: Called immediately after instance initialization, before data observation and event/watcher setup.
 - **created**: Called after the instance is created, with data observation, computed properties, methods, and watchers set up, but before DOM mounting.

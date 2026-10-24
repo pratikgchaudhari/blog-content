@@ -1,4 +1,10 @@
-### Top Python Web Frameworks
+---
+title: Top Python Web Frameworks
+date: 2025-09-04
+summary: An overview of Python web frameworks and the kinds of applications they support.
+tag: Python
+draft: false
+---
 
 - **Django**: A high-level, full-stack framework emphasizing rapid development and clean design. It includes an ORM, admin interface, and robust security features, ideal for complex, database-driven applications.
 

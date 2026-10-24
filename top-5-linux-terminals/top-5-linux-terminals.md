@@ -1,4 +1,11 @@
-### Top 5 Linux Terminals
+---
+title: Top 5 Linux Terminals
+date: 2025-09-20
+summary: A look at Linux terminal emulators and their features for everyday command-line work.
+tag: Linux
+draft: false
+related: linux-ricing
+---
 
 1. **GNOME Terminal**
     - Default in GNOME desktop environments (e.g., Ubuntu, Fedora).

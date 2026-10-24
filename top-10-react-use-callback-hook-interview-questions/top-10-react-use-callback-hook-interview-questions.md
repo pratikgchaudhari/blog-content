@@ -1,4 +1,10 @@
-### Top 10 React.js useCallback() Interview Question
+---
+title: Top 10 React.js useCallback() Interview Question
+date: 2025-09-14
+summary: Interview questions on callback memoization, dependency arrays, and React rendering performance.
+tag: React
+draft: false
+---
 
 1. **What is the `useCallback` hook in React?**  
    > It memoizes a callback function, preventing unnecessary re-creations on re-renders unless dependencies change.

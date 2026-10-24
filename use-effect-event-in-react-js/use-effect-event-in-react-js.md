@@ -1,4 +1,10 @@
-### `useEffectEvent()` in React.js
+---
+title: useEffectEvent() in React.js
+date: 2025-10-05
+summary: Separate non-reactive logic from React Effects with useEffectEvent.
+tag: React
+draft: false
+---
 
 - **Purpose**: `useEffectEvent` is a React Hook that allows you to extract non-reactive logic from your Effects into a reusable function known as an Effect Event. This helps in reading the latest props and state inside an Effect without causing the Effect to re-run when those values change.
 - **When to Use It**: Employ `useEffectEvent` for logic that doesn't depend on changing values, such as accessing non-reactive state (e.g., `numberOfItems`) in its latest form without triggering Effect re-runs, while keeping reactive values (e.g., `url`) as dependencies or arguments.

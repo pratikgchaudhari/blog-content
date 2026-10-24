@@ -1,4 +1,10 @@
-### Top 10 considerations while designing Rate-Limiter in a System Design Interview
+---
+title: Top 10 considerations while designing Rate-Limiter in a System Design Interview
+date: 2025-09-20
+summary: Design considerations for rate limiting, including algorithms, quotas, scaling, and distributed state.
+tag: System Design
+draft: false
+---
 
 1. **Algorithm Selection**: Choose an appropriate rate-limiting algorithm based on requirements, such as Token Bucket (allows bursts), Leaky Bucket (smooths traffic), Fixed Window Counter (simple but has boundary issues), or Sliding Window Log (accurate but memory-intensive).
 

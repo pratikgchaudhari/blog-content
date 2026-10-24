@@ -1,4 +1,10 @@
-### Top 10 Vue.js concepts
+---
+title: Top 10 Vue.js concepts
+date: 2025-09-05
+summary: A reference to Vue components, directives, reactivity, props, and other core concepts.
+tag: Vue.js
+draft: false
+---
 
 - **Components**: Reusable, self-contained building blocks for UI, encapsulating HTML, CSS, and JS.
 - **Directives**: Special attributes (e.g., v-bind, v-if) for reactive DOM manipulation.

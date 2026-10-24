@@ -1,4 +1,10 @@
-### Why one should prefer try-with-resources over try-finally in Java?
+---
+title: Why one should prefer try-with-resources over try-finally in Java?
+date: 2026-01-13
+summary: Simplify resource cleanup and exception handling with Java's try-with-resources statement.
+tag: Java
+draft: false
+---
 
 - Prefer try-with-resources over try-finally for all closeable resources
 - Automatically closes resources at end of block — no manual finally needed

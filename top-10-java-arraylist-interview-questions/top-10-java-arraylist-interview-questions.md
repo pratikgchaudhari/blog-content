@@ -1,4 +1,10 @@
-### Top 10 Java ArrayList Interview Questions
+---
+title: Top 10 Java ArrayList Interview Questions
+date: 2025-09-13
+summary: Interview questions on ArrayList storage, resizing, access costs, iteration, and thread safety.
+tag: Java
+draft: false
+---
 
 1. **What is an ArrayList in Java?**  
    > A dynamic array-based data structure that allows resizing and provides fast random access.

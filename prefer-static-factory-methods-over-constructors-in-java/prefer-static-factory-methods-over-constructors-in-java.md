@@ -1,4 +1,10 @@
-### Why one should prefer static factory methods over constructors in Java?
+---
+title: Why one should prefer static factory methods over constructors in Java?
+date: 2026-01-12
+summary: How named factory methods offer flexible object creation, caching, and clearer Java APIs.
+tag: Java
+draft: false
+---
 
 - Static factory methods have descriptive names (unlike anonymous constructors)
 

@@ -1,4 +1,10 @@
-### `<KeepAlive>` in Vue.js
+---
+title: <KeepAlive> in Vue.js
+date: 2025-09-05
+summary: Preserve dynamic component state and manage cached instances with Vue's KeepAlive component.
+tag: Vue.js
+draft: false
+---
 
 - **Caches Component Instances:** Preserves the state of dynamic components by caching their instances in memory, preventing destruction when switched out.
 - **Prevents Re-rendering:** Avoids re-rendering cached components, reducing performance overhead for complex or frequently toggled components.

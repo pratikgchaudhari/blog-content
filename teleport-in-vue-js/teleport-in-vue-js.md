@@ -1,4 +1,10 @@
-### <Teleport> in Vue.js
+---
+title: <Teleport> in Vue.js
+date: 2025-09-11
+summary: Render modals and other Vue content outside their parent DOM hierarchy with Teleport.
+tag: Vue.js
+draft: false
+---
 
 - **Purpose**: `<Teleport>` in Vue.js allows rendering a component's content to a different DOM location outside its parent hierarchy.
 - **Syntax**: `<Teleport to="selector">...</Teleport>`, where `to` specifies the target DOM element (e.g., `#id`, `.class`, or `body`).

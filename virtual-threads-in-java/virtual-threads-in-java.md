@@ -1,4 +1,10 @@
-### Virtual Threads in Java:
+---
+title: Virtual Threads in Java:
+date: 2025-08-31
+summary: An introduction to virtual threads and their role in scalable concurrent Java applications.
+tag: Java
+draft: false
+---
 - Virtual threads are lightweight, JVM-managed threads introduced in Java 21 (JEP 444) to simplify concurrent programming.
 - Enable high-throughput, scalable applications by reducing overhead of traditional OS threads.
 - Lightweight: Thousands to millions can run on a single JVM, unlike heavy OS threads.

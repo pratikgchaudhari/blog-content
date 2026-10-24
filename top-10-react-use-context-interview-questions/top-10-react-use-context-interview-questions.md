@@ -1,4 +1,10 @@
-### Top 10 React.js useContext() Interview Questions
+---
+title: Top 10 React.js useContext() Interview Questions
+date: 2025-09-13
+summary: Interview questions on reading context and sharing data across React components.
+tag: React
+draft: false
+---
 
 1. **What is the useContext() hook in React?**  
    It’s a React hook that lets you access context values from a React context without nesting.

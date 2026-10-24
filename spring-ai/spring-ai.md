@@ -1,4 +1,10 @@
-### Spring AI
+---
+title: Spring AI
+date: 2025-08-31
+summary: An overview of Spring AI, model integration, prompts, embeddings, and vector databases.
+tag: Spring
+draft: false
+---
 
 - Spring AI is a framework by Spring to integrate AI capabilities into Java applications, focusing on ease of use and extensibility.
 - Enables developers to embed AI models (e.g., LLMs, embeddings) into Spring-based apps for tasks like text generation, classification, or semantic search.

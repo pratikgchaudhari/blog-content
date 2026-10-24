@@ -1,4 +1,10 @@
-### Provide & Inject Vue.js
+---
+title: Provide & Inject Vue.js
+date: 2025-09-10
+summary: Share dependencies across a Vue component tree using provide and inject.
+tag: Vue.js
+draft: false
+---
 
 - **Provide**: Allows a parent component to share data with all its descendants, regardless of nesting level.
 - **Inject**: Enables a descendant component to access data provided by an ancestor component.

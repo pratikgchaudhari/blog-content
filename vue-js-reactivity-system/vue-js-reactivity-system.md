@@ -1,4 +1,10 @@
-### Vue.js Reactivity System
+---
+title: Vue.js Reactivity System
+date: 2025-08-31
+summary: How Vue tracks reactive data and updates the UI when application state changes.
+tag: Vue.js
+draft: false
+---
 
 - **Reactivity System**: Vue.js uses a reactive data system to automatically update the UI when data changes.
 - **Reactive Objects**: Data properties in a Vue instance or component are made reactive using `reactive()` or `ref()` in Vue 3.

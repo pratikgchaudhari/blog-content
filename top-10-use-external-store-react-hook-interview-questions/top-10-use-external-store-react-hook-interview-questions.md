@@ -1,4 +1,10 @@
-### Top 10 useExternalStore() React.js hook Interview Questions
+---
+title: Top 10 useExternalStore() React.js hook Interview Questions
+date: 2025-09-16
+summary: Interview questions on subscribing to external state with React's useSyncExternalStore hook.
+tag: React
+draft: false
+---
 
 1. What is the `useSyncExternalStore` hook in React?  
    A hook to subscribe to an external store and sync its state with React components.

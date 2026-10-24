@@ -1,4 +1,10 @@
-### It's Omarchy Time!
+---
+title: It's Omarchy Time!
+date: 2025-09-21
+summary: First impressions of Omarchy and returning to a Linux desktop for everyday development.
+tag: Linux
+draft: false
+---
 
 I decided to try DHH's Omarchy over the weekend, and I’m loving it!
 

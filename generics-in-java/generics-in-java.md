@@ -1,4 +1,10 @@
-### Generics in Java
+---
+title: Generics in Java
+date: 2025-09-26
+summary: A guide to type parameters, reusable APIs, and the type-safety benefits of Java generics.
+tag: Java
+draft: false
+---
 
 - Generics in Java, introduced in Java 5, allow type parameters for classes, interfaces, and methods using angle brackets (e.g., `List<String>`) for type safety and reduced casting.
 - Provide type safety, eliminate explicit casts, and enable reusable code for any reference type (not primitives, use wrappers like `Integer`).

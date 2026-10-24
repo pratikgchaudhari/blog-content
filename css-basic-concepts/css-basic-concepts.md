@@ -1,4 +1,10 @@
-### CSS Basic Concepts:
+---
+title: CSS Basic Concepts:
+date: 2025-09-05
+summary: A quick reference to selectors, the box model, layout, and other CSS fundamentals.
+tag: CSS
+draft: false
+---
 
 - **Selectors**: Target HTML elements to style (e.g., element, class, ID, attribute).
 - **Properties**: Style attributes applied to elements (e.g., color, font-size, margin).

@@ -1,4 +1,10 @@
-### Why one should always override `hashCode()` & `equals()` together?
+---
+title: Why one should always override hashCode() & equals() together?
+date: 2026-01-11
+summary: How the equals and hashCode contract affects object equality and hash-based collections.
+tag: Java
+draft: false
+---
 
 - Overriding equals without hashCode directly violates the official hashCode contract
 - The contract demands: equal objects **must** produce identical hash codes

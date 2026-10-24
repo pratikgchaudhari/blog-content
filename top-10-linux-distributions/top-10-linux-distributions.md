@@ -1,4 +1,10 @@
-### Top 10 Linux Distributions
+---
+title: Top 10 Linux Distributions
+date: 2025-09-07
+summary: An overview of Linux distributions and the users and workflows they serve.
+tag: Linux
+draft: false
+---
 
 1. **Ubuntu**: User-friendly, widely supported distro with a vast software ecosystem and regular updates.
 2. **Fedora**: Cutting-edge, open-source distro with frequent releases and strong Red Hat backing.

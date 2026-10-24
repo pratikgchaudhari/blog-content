@@ -1,4 +1,10 @@
-### `<Activity>` in React.js
+---
+title: <Activity> in React.js
+date: 2025-10-04
+summary: Preserve component state while controlling visibility and background work with React's Activity component.
+tag: React
+draft: false
+---
 
 -  The `<Activity>` component, introduced as a stable feature in React 19.2, allows you to partition your app into distinct "activities" that can be controlled and prioritized separately. It provides a way to hide and restore UI elements while preserving their internal state, serving as an alternative to conditional rendering or CSS hiding, which can lead to state loss or performance issues.
 

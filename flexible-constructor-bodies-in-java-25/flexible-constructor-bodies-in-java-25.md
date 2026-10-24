@@ -1,4 +1,10 @@
-### Flexible Constructor Bodies in Java 25
+---
+title: Flexible Constructor Bodies in Java 25
+date: 2025-10-04
+summary: How Java 25 changes constructor initialization with statements before super or this calls.
+tag: Java
+draft: false
+---
 
 - Flexible constructor bodies, introduced as a standard feature in Java 25 via JEP 513, relax the historical requirement that a constructor must start with an explicit invocation of another constructor (super() or this()). This allows statements to appear before such invocations, enabling more natural and safer object initialization while maintaining top-down construction semantics.
 - The constructor body is divided into a prologue (statements before the explicit constructor invocation) and an epilogue (statements after). The prologue can include safe computations or initializations, but the epilogue handles the rest of the initialization after the superclass or sibling constructor has run.

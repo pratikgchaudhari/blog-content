@@ -1,4 +1,10 @@
-### preloadModule() in React.js
+---
+title: preloadModule() in React.js
+date: 2025-09-26
+summary: Notes on preloading JavaScript modules and preparing code before a React application needs it.
+tag: React
+draft: false
+---
 
 - `preloadModule()` is a React API to prefetch JavaScript modules for dynamic imports.
 - It improves performance by loading modules in the background before they are needed.

@@ -1,4 +1,10 @@
-### Top 10 React.js `useState()` Interview Questions
+---
+title: Top 10 React.js useState() Interview Questions
+date: 2025-09-13
+summary: Interview questions and examples covering state initialization, updates, and React rendering.
+tag: React
+draft: false
+---
 
 1. **What is `useState()`?**  
    A React hook to manage state in functional components with a state variable and update function.

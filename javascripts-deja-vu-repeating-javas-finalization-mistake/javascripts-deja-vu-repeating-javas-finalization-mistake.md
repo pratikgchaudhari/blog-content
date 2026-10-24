@@ -1,4 +1,10 @@
-### JavaScript's Déjà Vu: Repeating Java's Finalization Mistake
+---
+title: JavaScript's Déjà Vu: Repeating Java's Finalization Mistake
+date: 2024-06-30
+summary: A critique of FinalizationRegistry through the lessons of Java's finalization mechanism.
+tag: JavaScript
+draft: false
+---
 
 Let's dive into JavaScript’s `FinalizationRegistry` class, an attempt to emulate Java’s deprecated and buggy `finalize()` method.
 

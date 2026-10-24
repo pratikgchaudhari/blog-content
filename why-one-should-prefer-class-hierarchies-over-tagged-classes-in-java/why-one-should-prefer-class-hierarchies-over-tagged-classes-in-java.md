@@ -1,4 +1,10 @@
-### Why one should prefer class hierarchies over tagged classes in Java?
+---
+title: Why one should prefer class hierarchies over tagged classes in Java?
+date: 2026-01-17
+summary: How class hierarchies can replace tag fields and scattered conditional logic with polymorphism.
+tag: Java
+draft: false
+---
 
 - Tagged classes use a tag field (enum/int) to switch behavior
 - They include conditional fields (many unused per instance)

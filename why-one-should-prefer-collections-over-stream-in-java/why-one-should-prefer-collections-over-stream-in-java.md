@@ -1,4 +1,10 @@
-### Why one should prefer Collections over Stream as a return type?
+---
+title: Why one should prefer Collections over Stream as a return type?
+date: 2026-01-16
+summary: Why collections can provide a more flexible return type than single-use streams.
+tag: Java
+draft: false
+---
 
 - Collections allow multiple iterations, size checks, contains, random access
 - Streams are single-use — consumed after terminal operation

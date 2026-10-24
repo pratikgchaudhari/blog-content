@@ -1,4 +1,10 @@
-### Top 10 Spring Boot Annotations
+---
+title: Top 10 Spring Boot Annotations
+date: 2025-08-30
+summary: A reference to Spring Boot annotations for application setup, dependency injection, and web endpoints.
+tag: Spring
+draft: false
+---
 
 1. _**@SpringBootApplication**_: Marks the main class of a Spring Boot application, enabling auto-configuration, component scanning, and configuration.
 2. _**@RestController**_: Indicates a controller class that handles HTTP requests and returns data directly as JSON or XML.

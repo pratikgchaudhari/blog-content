@@ -1,4 +1,10 @@
-### Reflection APIs vs MethodHandles API in Java
+---
+title: Reflection APIs vs MethodHandles API in Java
+date: 2026-01-11
+summary: Compare Java reflection and method handles for dynamic access to methods and fields.
+tag: Java
+draft: false
+---
 
 | Feature              | java.lang.reflect (Reflection)                                                              | java.lang.invoke (MethodHandles)                                                                  |
 |----------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|

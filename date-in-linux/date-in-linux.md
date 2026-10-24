@@ -1,4 +1,10 @@
-### Dat(ing) in Linux
+---
+title: Dat(ing) in Linux
+date: 2025-09-13
+summary: Display and format dates, work with timestamps, and use the Linux date command.
+tag: Linux
+draft: false
+---
 
 - **Basic Usage**: `date` - Displays the current date and time in the default format (e.g., `Sat Sep 13 11:40:25 IST 2025`).
 - **Format Output**: `date +FORMAT` - Customizes output using format specifiers:

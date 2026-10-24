@@ -1,4 +1,10 @@
-### Top 10 Java Stream Methods
+---
+title: Top 10 Java Stream Methods
+date: 2025-09-01
+summary: A reference to common Java Stream operations with descriptions and example use cases.
+tag: Java
+draft: false
+---
 
 | **Method**         | **Description**                                                                 | **Use Case**                                                                                   |
 |--------------------|--------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|

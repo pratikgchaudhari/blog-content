@@ -1,4 +1,10 @@
-### The weird case of 'yes' command in Linux
+---
+title: The weird case of 'yes' command in Linux
+date: 2025-09-14
+summary: What the yes command does, how to use it in pipelines, and why it behaves as it does.
+tag: Linux
+draft: false
+---
 
 The `yes` command in Linux is a simple utility that outputs a string repeatedly until interrupted.
 

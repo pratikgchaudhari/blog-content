@@ -1,4 +1,10 @@
-### Java Database Connectivity Sans Framework
+---
+title: Java Database Connectivity Sans Framework
+date: 2025-09-02
+summary: The steps for connecting to a database, running parameterized queries, and closing JDBC resources.
+tag: Java
+draft: false
+---
 
 1. **Load JDBC Driver**: Use `Class.forName("driver_class_name")` to load the database driver.
 2. **Establish Connection**: Call `DriverManager.getConnection(url, username, password)` to connect to the database.

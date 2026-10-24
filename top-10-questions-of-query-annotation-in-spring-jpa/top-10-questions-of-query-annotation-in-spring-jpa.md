@@ -1,4 +1,10 @@
-### Top 10 questions for @Query annotation in Spring Data
+---
+title: Top 10 questions for @Query annotation in Spring Data
+date: 2025-10-04
+summary: Questions and answers on custom JPQL and SQL queries, parameters, and pagination in Spring Data.
+tag: Spring
+draft: false
+---
 
 1. **What is the `@Query` annotation used for in Spring?**  
    Defines custom JPQL or native SQL queries in Spring Data JPA repositories for precise data retrieval or manipulation.

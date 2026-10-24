@@ -1,4 +1,10 @@
-### Why obsolete references should be eliminated in Java?
+---
+title: Why obsolete references should be eliminated in Java?
+date: 2026-01-13
+summary: Why unused object references can cause memory leaks, and where to clear them.
+tag: Java
+draft: false
+---
 
 - Obsolete references prevent garbage collection → cause memory leaks
 - Java GC reclaims only unreachable objects

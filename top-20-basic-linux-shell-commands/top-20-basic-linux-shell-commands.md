@@ -1,4 +1,10 @@
-### Top 10 Linux Shell Commands:
+---
+title: Top 10 Linux Shell Commands:
+date: 2025-09-06
+summary: A concise reference to everyday Linux commands for navigating and managing files.
+tag: Linux
+draft: false
+---
 
 Here are the top 20 Linux shell commands with concise, one-line explanations:
 

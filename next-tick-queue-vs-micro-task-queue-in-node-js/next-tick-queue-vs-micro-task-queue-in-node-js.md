@@ -1,4 +1,10 @@
-### Next Task Queue vs Micro Task Queue in Node.js
+---
+title: Next Task Queue vs Micro Task Queue in Node.js
+date: 2026-01-11
+summary: Compare process.nextTick with Promise microtasks and their execution order in Node.js.
+tag: JavaScript
+draft: false
+---
 
 | #  | Aspect                              | nextTickQueue (`process.nextTick()`)                                                        | Microtask Queue (Promises / queueMicrotask)                                        | Winner (Higher Priority)  |
 |----|-------------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|---------------------------|

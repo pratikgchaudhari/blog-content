@@ -1,4 +1,10 @@
-### Key Features of Executor Framework in Java
+---
+title: Key Features of Executor Framework in Java
+date: 2025-09-03
+summary: The Executor framework's tools for thread pools, asynchronous tasks, and scheduling.
+tag: Java
+draft: false
+---
 
 - **Thread Pool Management**: Efficiently manages a pool of threads to execute tasks, reducing thread creation overhead.
 - **Task Submission**: Supports submitting tasks (Runnable or Callable) for asynchronous execution.

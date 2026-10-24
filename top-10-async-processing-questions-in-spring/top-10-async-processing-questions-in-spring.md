@@ -1,4 +1,10 @@
-### Top 10 questions related to Async processing in Spring
+---
+title: Top 10 questions related to Async processing in Spring
+date: 2025-10-01
+summary: Questions and answers on asynchronous methods, executors, scheduling, and error handling in Spring.
+tag: Spring
+draft: false
+---
 
 1. **How do you enable asynchronous processing in Spring?**  
    Use `@EnableAsync` on a configuration class to enable async support.

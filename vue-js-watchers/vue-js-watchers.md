@@ -1,4 +1,10 @@
-### Watchers in Vue.js
+---
+title: Watchers in Vue.js
+date: 2025-09-06
+summary: React to data changes with Vue watchers, including immediate and deep watching options.
+tag: Vue.js
+draft: false
+---
 
 - **Reactive Data Monitoring**: Tracks changes to reactive properties (data, props, computed) and runs a callback.
 - **Immediate Execution**: Runs the watcher callback immediately with `immediate: true`.

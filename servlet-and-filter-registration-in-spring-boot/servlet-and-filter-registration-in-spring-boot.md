@@ -1,4 +1,10 @@
-### `@ServletRegistration` & `@FilterRegistration` in Spring Boot 3.5
+---
+title: @ServletRegistration & @FilterRegistration in Spring Boot 3.5
+date: 2025-10-05
+summary: Notes on registering servlets and filters in a Spring Boot application.
+tag: Spring
+draft: false
+---
 
 - **Purpose**: `@ServletRegistration` and `@FilterRegistration` are new annotations in Spring Boot 3.5.0 for programmatically registering servlets and filters in a Spring application, simplifying configuration compared to traditional bean-based or `web.xml` approaches.
 - **Ease of Use**: Enable annotation-driven registration, reducing boilerplate code and making it easier to define servlets/filters directly in Java classes without manual `ServletContext` manipulation.

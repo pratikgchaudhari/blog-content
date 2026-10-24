@@ -1,4 +1,10 @@
-### Reentrant Lock in Java:
+---
+title: Reentrant Lock in Java:
+date: 2025-09-04
+summary: A reference to explicit locking, fairness, timed acquisition, and conditions with ReentrantLock.
+tag: Java
+draft: false
+---
 
 - **Reentrant**: Thread can reacquire lock, incrementing hold count.
 - **Explicit Lock/Unlock**: Uses `lock()` and `unlock()`, typically in try-finally.

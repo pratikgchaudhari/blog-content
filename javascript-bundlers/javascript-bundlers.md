@@ -1,4 +1,10 @@
-### JavaScript Bundlers
+---
+title: JavaScript Bundlers
+date: 2025-09-03
+summary: A survey of JavaScript bundlers and build tools, from Webpack and Vite to esbuild.
+tag: JavaScript
+draft: false
+---
 
 1. **Webpack** - A powerful module bundler that manages complex dependencies and optimizes assets for production.
 

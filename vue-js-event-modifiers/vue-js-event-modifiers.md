@@ -1,4 +1,10 @@
-### Vue.js Event Modifiers
+---
+title: Vue.js Event Modifiers
+date: 2025-09-01
+summary: Use Vue event modifiers to control propagation, default actions, and event handling.
+tag: Vue.js
+draft: false
+---
 
 Vue.js provides event modifiers to simplify event handling in templates. These modifiers are added to event directives (e.g., `v-on:click` or `@click`) using dot notation (e.g., `@click.stop`).
 1. **.stop**  

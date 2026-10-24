@@ -1,4 +1,10 @@
-### Hashtable vs HashMap in Java
+---
+title: Hashtable vs HashMap in Java
+date: 2025-08-31
+summary: Compare Hashtable and HashMap by synchronization, performance, null handling, and everyday use.
+tag: Java
+draft: false
+---
 
 | Feature | Hashtable | HashMap |
 |---------|-----------|---------|

@@ -1,4 +1,10 @@
-### useOptimistic() in React.js
+---
+title: useOptimistic() in React.js
+date: 2025-09-14
+summary: Questions and examples on showing optimistic UI updates while asynchronous operations complete.
+tag: React
+draft: false
+---
 
 1. **What is the `useOptimistic` hook in React?**  
    > It’s a hook to manage optimistic UI updates for async operations, showing temporary state before server confirmation.

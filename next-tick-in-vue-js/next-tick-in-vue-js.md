@@ -1,4 +1,10 @@
-### `nextTick()` in Vue.js
+---
+title: nextTick() in Vue.js
+date: 2025-09-23
+summary: Use nextTick to run code after Vue applies reactive changes to the DOM.
+tag: Vue.js
+draft: false
+---
 
 - `nextTick()` defers a callback until the next DOM update cycle in Vue.js.
 - Ensures DOM updates from reactive data changes are applied before the callback runs.

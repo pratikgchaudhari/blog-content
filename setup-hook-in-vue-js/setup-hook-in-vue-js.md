@@ -1,4 +1,10 @@
-### Vue.js `setup()` Hook
+---
+title: Vue.js setup() Hook
+date: 2025-09-01
+summary: Organize reactive state, computed values, methods, and lifecycle hooks with Vue's setup function.
+tag: Vue.js
+draft: false
+---
 
 - **Entry point for Composition API**: Central hub in Vue 3 for defining component logic, replacing or complementing Options API.
 - **Creates reactive state**: Uses `ref` or `reactive` to define data that triggers UI updates on changes.

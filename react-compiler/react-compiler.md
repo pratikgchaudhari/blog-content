@@ -1,4 +1,10 @@
-### React Compiler
+---
+title: React Compiler
+date: 2025-09-13
+summary: An overview of React Compiler and its approach to automatic memoization.
+tag: React
+draft: false
+---
 
 - **React Compiler**: A tool that optimizes React applications by automatically memoizing components and hooks to reduce unnecessary re-renders.
 - **Purpose**: Enhances performance by analyzing code and applying optimizations like memoization without manual intervention.

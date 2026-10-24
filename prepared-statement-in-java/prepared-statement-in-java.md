@@ -1,4 +1,10 @@
-### Prepared Statement in Java
+---
+title: Prepared Statement in Java
+date: 2025-09-01
+summary: Use JDBC PreparedStatement for parameterized SQL queries and repeated database operations.
+tag: Java
+draft: false
+---
 
 - **PreparedStatement** is a Java interface in the `java.sql` package, extending `Statement` for executing parameterized SQL queries.
 - **Precompiled Queries**: SQL statements are precompiled and stored, improving performance for repeated executions.

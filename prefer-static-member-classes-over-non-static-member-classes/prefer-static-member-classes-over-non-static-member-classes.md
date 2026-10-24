@@ -1,4 +1,10 @@
-### Why one should favour static member classes over non-static ones?
+---
+title: Why one should favour static member classes over non-static ones?
+date: 2026-01-11
+summary: Why static nested classes can reduce hidden references, memory overhead, and accidental retention.
+tag: Java
+draft: false
+---
 
 - Static member classes have no implicit reference to the enclosing instance
 - Nonstatic (inner) classes hold a hidden reference to the outer instance

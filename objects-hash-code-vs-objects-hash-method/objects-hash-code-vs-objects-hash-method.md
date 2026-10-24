@@ -1,4 +1,10 @@
-### `Objects.hashCode()` vs `Objects.hash()` in Java
+---
+title: Objects.hashCode() vs Objects.hash() in Java
+date: 2026-01-11
+summary: Compare Objects.hashCode and Objects.hash, including their inputs and hashing behavior.
+tag: Java
+draft: false
+---
 
 | Feature / Property               | `Objects.hashCode(Object o)`                                                              | `Objects.hash(Object... values)`                                                                                        |
 |----------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
