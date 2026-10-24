@@ -1,4 +1,10 @@
-## *Don't let AI be your voice. It's not you!*
+---
+title: Don't let AI be your voice. It's not you!
+date: 2024-09-01
+summary: A personal argument for keeping your own voice when writing with help from AI.
+tag: Engineering
+draft: false
+---
 
 The Internet is being flooded with AI-generated content.
 
@@ -42,4 +48,4 @@ By delegating the execution to AI, you are essentially outsourcing the thought p
 
 And that helps you become a better version of yourself, something that AI can't do for you!
 
-![Joker Murray Conversation](./joker-murray-conversation.jpg) 
+![Joker Murray Conversation](/images/posts/dont-let-ai-be-your-voice-its-not-you/joker-murray-conversation.jpg) 

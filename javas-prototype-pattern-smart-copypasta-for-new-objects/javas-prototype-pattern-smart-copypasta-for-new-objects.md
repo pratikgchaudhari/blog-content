@@ -1,4 +1,10 @@
-### Java's Prototype Pattern: Smart Copypasta for New Objects
+---
+title: Java's Prototype Pattern: Smart Copypasta for New Objects
+date: 2024-06-23
+summary: An introduction to the prototype pattern and creating Java objects by copying existing ones.
+tag: Java
+draft: false
+---
 
 Imagine you're deep in the code trenches.
 
@@ -16,4 +22,4 @@ It's a straightforward yet mighty technique, a coder's secret weapon when wielde
 
 #java #prototype #designpatterns #clones #objectclones
 
-![Homer Simpson Clones](./homer-simpson-clones.gif)
+![Homer Simpson Clones](/images/posts/javas-prototype-pattern-smart-copypasta-for-new-objects/homer-simpson-clones.gif)

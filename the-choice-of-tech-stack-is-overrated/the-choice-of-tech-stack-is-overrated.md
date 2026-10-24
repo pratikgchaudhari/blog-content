@@ -1,4 +1,10 @@
-## The choice of Tech Stack is overrated!
+---
+title: The choice of Tech Stack is overrated!
+date: 2024-09-07
+summary: Why solving the right problem matters more than copying a successful company's technology choices.
+tag: Engineering
+draft: false
+---
 
 I think, as developers, we focus too much on the Tech Stack.
 
@@ -46,4 +52,4 @@ Frankly, it's nothing more than an investment.
 
 What really matters is the return on investment! And if it's zero, no one gives a shit!
 
-![Developers focus too much on Tech Stack](./developers-focus-too-much-on-tech-stack.jpg)
+![Developers focus too much on Tech Stack](/images/posts/the-choice-of-tech-stack-is-overrated/developers-focus-too-much-on-tech-stack.jpg)

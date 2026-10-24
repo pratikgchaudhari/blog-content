@@ -1,4 +1,10 @@
-### The Redis Cache Nightmare: How We Fixed It with One Simple Command
+---
+title: The Redis Cache Nightmare: How We Fixed It with One Simple Command
+date: 2024-06-16
+summary: A Redis cache incident, the timeout behind it, and the command that resolved the problem.
+tag: Engineering
+draft: false
+---
 
 Redis. The undisputed king of caching. Mention caching, and Redis pops up. It's that simple.
 
@@ -26,4 +32,4 @@ Lesson learned: Keep it simple, use FLUSHALL. Redis remains our caching king.
 
 #redis #caching #flushall #flushallasync
 
-![Redis Logo, Image Credit: Pratik Chaudhari](./redis.png)
+![Redis Logo, Image Credit: Pratik Chaudhari](/images/posts/the-redis-cache-nightmare-and-we-fixed-it-with-one-simple-command/redis.png)
