@@ -4,7 +4,7 @@ date: 2025-08-31
 summary: A reference to React hooks, their use cases, and when they were introduced.
 tag: React
 draft: false
-related: top-10-react-use-state-interview-questions,top-10-react-use-memo-interview-questions,top-10-react-use-callback-hook-interview-questions,top-10-react-use-context-interview-questions
+related: top-10-react-use-state-interview-questions,top-10-react-use-memo-interview-questions,top-10-react-use-callback-hook-interview-questions,top-10-react-use-context-interview-questions,use-effect-event-in-react-js,usestate-vs-useref,top-10-use-external-store-react-hook-interview-questions
 ---
 
 | **Hook**            | **Use Case**                                                                 | **Introduced in React Version** |

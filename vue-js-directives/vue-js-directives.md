@@ -4,7 +4,7 @@ date: 2025-09-02
 summary: A reference to Vue directives for binding, forms, conditional rendering, and lists.
 tag: Vue.js
 draft: false
-related: vue-js-event-modifiers
+related: vue-js-event-modifiers,top-10-vue-js-concepts
 ---
 
 - **v-bind**: Binds an attribute to an expression, dynamically updating the attribute’s value (e.g., `:src="imageUrl"`).

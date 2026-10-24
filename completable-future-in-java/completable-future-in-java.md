@@ -4,7 +4,7 @@ date: 2026-10-02
 summary: Common questions regarding CompletableFuture in Java
 tag: Java
 draft: false
-related: callable-vs-runnable-in-java,executor-service-types-in-java
+related: callable-vs-runnable-in-java,executor-service-types-in-java,top-10-async-processing-questions-in-spring
 ---
 
 CompletableFuture is Java’s non-blocking Future that can be completed explicitly and chained with callbacks, transformations, and combinations.

@@ -4,6 +4,7 @@ date: 2025-09-26
 summary: A guide to type parameters, reusable APIs, and the type-safety benefits of Java generics.
 tag: Java
 draft: false
+related: covariant-arrays-in-java
 ---
 
 - Generics in Java, introduced in Java 5, allow type parameters for classes, interfaces, and methods using angle brackets (e.g., `List<String>`) for type safety and reduced casting.

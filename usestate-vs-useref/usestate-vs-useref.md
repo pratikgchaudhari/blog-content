@@ -2,7 +2,7 @@
 title: useState vs useRef in React
 date: 2026-10-19
 summary: A concise comparison of the useState and useRef hooks in React.js, highlighting key differences in re-rendering, mutability, and common use cases.
-tag: React, hooks, useState, useRef
+tag: React
 draft: false
 related: top-10-react-use-state-interview-questions,top-10-react-hooks
 ---

@@ -2,7 +2,7 @@
 title: How the Single Thread Executor Works in Java
 date: 2026-10-19
 summary: How Executors.newSingleThreadExecutor guarantees sequential, ordered execution on exactly one thread.
-tag: java, concurrency, executors, thread-pool
+tag: Java
 draft: false
 related: executor-service-types-in-java
 ---

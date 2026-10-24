@@ -4,7 +4,7 @@ date: 2025-09-16
 summary: Brief description of various types of ExecutorService in Java.
 tag: Java
 draft: false
-related: cached-thread-pool-executor,single-thread-executor,thread-per-task-executor
+related: cached-thread-pool-executor,single-thread-executor,thread-per-task-executor,completable-future-in-java,key-features-of-executor-frameowork-in-java,callable-vs-runnable-in-java,top-10-async-processing-questions-in-spring
 ---
 
 ### Types of ExecutorService in Java

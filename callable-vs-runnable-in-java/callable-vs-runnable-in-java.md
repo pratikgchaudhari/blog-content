@@ -4,7 +4,7 @@ date: 2025-09-28
 summary: Compare Runnable and Callable by return values, exception handling, and task execution.
 tag: Java
 draft: false
-related: executor-service-types-in-java,completable-future-in-java
+related: executor-service-types-in-java,completable-future-in-java,key-features-of-executor-frameowork-in-java
 ---
 
 | **Feature**                    | **Runnable**                                                                 | **Callable**                                                               |

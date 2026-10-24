@@ -2,7 +2,7 @@
 title: Top 100 Apache Kafka Interview Questions with Crisp Answers
 date: 2026-10-20
 summary: A curated collection of 100 essential Apache Kafka interview questions with short, accurate answers covering architecture, producers, consumers, reliability, KRaft, and production best practices.
-tag: kafka, interview-questions, apache-kafka, event-streaming, data-engineering, kraft
+tag: Kafka
 draft: false
 ---
 

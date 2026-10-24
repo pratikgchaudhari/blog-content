@@ -4,7 +4,7 @@ date: 2025-09-01
 summary: A reference to common Java Stream operations with descriptions and example use cases.
 tag: Java
 draft: false
-related: top-10-java-streams-interview-questions-with-answers,why-one-should-prefer-collections-over-stream-in-java
+related: top-10-java-streams-interview-questions-with-answers,why-one-should-prefer-collections-over-stream-in-java,why-method-references-are-preferable-over-lambdas-in-java
 ---
 
 | **Method**         | **Description**                                                                 | **Use Case**                                                                                   |

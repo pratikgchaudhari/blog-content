@@ -2,7 +2,7 @@
 title: Top 50 MongoDB Interview Questions and Answers
 date: 2026-10-19
 summary: A comprehensive list of 50 frequently asked MongoDB interview questions with concise answers, covering fundamentals, CRUD, data modeling, indexing, aggregation, replication, sharding, and performance best practices.
-tag: mongodb, interview-questions, nosql, database, backend, java-spring
+tag: Database
 draft: false
 related: mongodb-indexes-interview-questions
 ---

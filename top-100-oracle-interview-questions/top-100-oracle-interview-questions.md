@@ -2,8 +2,9 @@
 title: Top 100 Oracle Database Interview Questions and Answers
 date: 2026-10-23
 summary: Concise list of the top 100 Oracle Database interview questions with short, crisp answers for quick preparation.
-tag: Oracle, Database, SQL, PL/SQL, Interview
+tag: Database
 draft: false
+related: database-internals,wal-databases
 ---
 
 1. **What is Oracle Database?**  

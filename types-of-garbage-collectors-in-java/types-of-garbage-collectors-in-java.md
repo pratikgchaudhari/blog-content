@@ -4,7 +4,7 @@ date: 2025-08-30
 summary: A reference to Java garbage collectors and their approaches to throughput, pauses, and memory.
 tag: Java
 draft: false
-related: want-a-faster-java-program-meet-epsilon-gc-and-its-dangerous-tradeoffs
+related: want-a-faster-java-program-meet-epsilon-gc-and-its-dangerous-tradeoffs,eliminate-obsolete-references-in-java,shenandoah-gc,javascripts-deja-vu-repeating-javas-finalization-mistake
 ---
 
 1. **Serial GC**: Single-threaded, stop-the-world collector for small apps or single-core systems.

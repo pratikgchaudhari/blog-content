@@ -2,7 +2,7 @@
 title: Top 100 Spring AI Interview Questions and Answers
 date: 2026-10-22
 summary: Concise Q&A covering Spring AI fundamentals, ChatClient, RAG, tool calling, advisors, vector stores, MCP, and production concerns for Java developers.
-tag: spring-ai, interview-questions, java, rag, genai, mcp
+tag: Spring
 draft: false
 related: spring-ai
 ---

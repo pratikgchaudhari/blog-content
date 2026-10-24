@@ -2,8 +2,9 @@
 title: Java Stream API Methods
 date: 2026-10-03
 summary: One-line reference for every method on java.util.stream.Stream, including BaseStream and Java 24 gather.
-tag: java, streams, api, reference
+tag: Java
 draft: false
+related: top-10-java-stream-methods,top-10-java-streams-interview-questions-with-answers
 ---
 
 

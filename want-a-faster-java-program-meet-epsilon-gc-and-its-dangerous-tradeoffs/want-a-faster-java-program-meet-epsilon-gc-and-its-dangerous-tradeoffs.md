@@ -4,7 +4,7 @@ date: 2024-06-22
 summary: An exploration of Epsilon GC and the memory trade-offs of running without garbage collection.
 tag: Java
 draft: false
-related: types-of-garbage-collectors-in-java
+related: types-of-garbage-collectors-in-java,shenandoah-gc
 ---
 
 Ever wondered how much faster your Java program could run without a Garbage Collector (GC)? We're talking 30 to 50 percent faster. Seriously.

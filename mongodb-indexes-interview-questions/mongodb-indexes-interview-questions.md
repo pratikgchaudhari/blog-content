@@ -2,7 +2,7 @@
 title: Top 100 MongoDB Indexes Interview Questions with Crisp Answers
 date: 2026-10-20
 summary: A comprehensive collection of the top 100 MongoDB indexes interview questions with short, practical answers.
-tag: [mongodb, indexes, interview, database, nosql]
+tag: Database
 draft: false
 related: mongodb-interview-questions
 ---

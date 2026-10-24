@@ -2,7 +2,7 @@
 title: Top 50 Kubernetes Interview Questions and Answers
 date: 2026-10-20
 summary: Concise, interview-ready answers to the most frequently asked Kubernetes questions covering architecture, workloads, networking, storage, security, and scaling.
-tag: kubernetes, interview, devops, cloud-native, cka
+tag: Kubernetes
 draft: false
 ---
 

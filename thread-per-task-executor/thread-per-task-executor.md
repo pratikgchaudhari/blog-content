@@ -2,9 +2,9 @@
 title: How the Thread-Per-Task Executor Works in Java
 date: 2026-10-20
 summary: Explanation of Java's thread-per-task executor, focusing on virtual threads and how it differs from traditional thread pools.
-tag: java, concurrency, virtual-threads, executors, loom
+tag: Java
 draft: false
-related: executor-service-types-in-java
+related: executor-service-types-in-java,virtual-threads-in-java,top-100-java-virtual-threads-interview-questions
 ---
 
 **Thread-per-task executor** (especially `Executors.newVirtualThreadPerTaskExecutor()` from Java 21+) starts a new thread for every submitted task instead of reusing a fixed pool of threads.

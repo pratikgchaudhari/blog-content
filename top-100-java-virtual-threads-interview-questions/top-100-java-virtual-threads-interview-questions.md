@@ -2,7 +2,7 @@
 title: Top 100 Java Virtual Threads Interview Questions
 date: 2026-10-23
 summary: A concise collection of the top 100 Java Virtual Threads interview questions with short, crisp answers for quick preparation.
-tag: java, virtual-threads, project-loom, concurrency, interview-questions
+tag: Java
 draft: false
 related: virtual-threads-in-java,thread-per-task-executor
 ---
