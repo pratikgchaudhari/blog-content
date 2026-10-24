@@ -4,6 +4,7 @@ date: 2025-08-31
 summary: A reference to the hooks that run as Vue components are created, mounted, updated, and removed.
 tag: Vue.js
 draft: false
+related: vue-js-keep-alive,setup-hook-in-vue-js
 ---
 
 - **beforeCreate**: Called immediately after instance initialization, before data observation and event/watcher setup.

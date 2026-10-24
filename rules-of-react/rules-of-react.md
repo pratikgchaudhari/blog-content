@@ -4,6 +4,7 @@ date: 2025-09-13
 summary: A checklist of React practices for components, hooks, state updates, and rendering.
 tag: React
 draft: false
+related: react-compiler
 ---
 
 1. Components return a single JSX element (or null/undefined), using a parent like `<div>` or `<>` for multiple elements.

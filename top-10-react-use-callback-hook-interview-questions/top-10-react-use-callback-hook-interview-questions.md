@@ -4,6 +4,7 @@ date: 2025-09-14
 summary: Interview questions on callback memoization, dependency arrays, and React rendering performance.
 tag: React
 draft: false
+related: top-10-react-use-memo-interview-questions,react-compiler
 ---
 
 1. **What is the `useCallback` hook in React?**  

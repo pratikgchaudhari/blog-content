@@ -4,6 +4,7 @@ date: 2025-09-05
 summary: Interview questions on HashMap internals, hashing, collisions, performance, and concurrency.
 tag: Java
 draft: false
+related: hashtable-vs-hashmap-in-java,always-override-hashcode-and-equals-together
 ---
 
 - **What is a HashMap in Java?**

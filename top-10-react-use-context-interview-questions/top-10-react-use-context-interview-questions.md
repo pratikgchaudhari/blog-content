@@ -4,6 +4,7 @@ date: 2025-09-13
 summary: Interview questions on reading context and sharing data across React components.
 tag: React
 draft: false
+related: top-10-react-hooks
 ---
 
 1. **What is the useContext() hook in React?**  

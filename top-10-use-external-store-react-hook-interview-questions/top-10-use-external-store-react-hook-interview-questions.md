@@ -4,6 +4,7 @@ date: 2025-09-16
 summary: Interview questions on subscribing to external state with React's useSyncExternalStore hook.
 tag: React
 draft: false
+related: top-10-react-hooks
 ---
 
 1. What is the `useSyncExternalStore` hook in React?  

@@ -4,6 +4,7 @@ date: 2025-09-10
 summary: A look at Omarchy's desktop workflow, customization options, and included developer tools.
 tag: Linux
 draft: false
+related: its-omarchy-time,linux-ricing
 ---
 
 - **Keyboard-Centric Navigation**: Streamlined workflow with hotkeys like Super + B for browser and Super + Return for terminal, minimizing mouse use.

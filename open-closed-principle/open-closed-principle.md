@@ -4,6 +4,7 @@ date: 2026-10-02
 summary: What it is & how to implement it in real-world use cases
 tag: Java
 draft: false
+related: top-design-patterns-in-java,why-one-should-prefer-class-hierarchies-over-tagged-classes-in-java
 ---
 
 Software entities should be open for extension and closed for modification. Bertrand Meyer named the idea in 1988; Robert C. Martin later made it the O in SOLID.

@@ -4,6 +4,7 @@ date: 2026-10-24
 summary: A deep dive into how Shenandoah achieves near-constant low pause times through concurrent marking, evacuation, and reference updating.
 tag: java, jvm, garbage-collection, shenandoah, performance, low-latency
 draft: false
+related: types-of-garbage-collectors-in-java,want-a-faster-java-program-meet-epsilon-gc-and-its-dangerous-tradeoffs
 ---
 
 Imagine a city that never stops moving. Cars flow, people walk, deliveries arrive, and yet the streets are regularly swept clean of debris without ever freezing traffic. That is the ambition behind Shenandoah, the low-pause garbage collector developed for OpenJDK. Instead of pausing the entire application while it reclaims unused memory, Shenandoah performs the bulk of its work alongside the running program. The result is pause times that remain small and largely independent of how large the heap has grown—whether two gigabytes or two hundred.

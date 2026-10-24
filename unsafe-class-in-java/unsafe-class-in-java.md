@@ -4,6 +4,7 @@ date: 2026-01-10
 summary: An overview of Unsafe's low-level operations and how they bypass Java's usual safety checks.
 tag: Java
 draft: false
+related: reflection-apis-vs-method-handles
 ---
 
 The `sun.misc.Unsafe` (or `jdk.internal.misc.Unsafe` in newer JDKs) class in Java provides low-level operations that bypass normal safety checks.

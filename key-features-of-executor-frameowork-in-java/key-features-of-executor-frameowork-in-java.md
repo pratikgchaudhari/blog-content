@@ -4,6 +4,7 @@ date: 2025-09-03
 summary: The Executor framework's tools for thread pools, asynchronous tasks, and scheduling.
 tag: Java
 draft: false
+related: executor-service-types-in-java,callable-vs-runnable-in-java
 ---
 
 - **Thread Pool Management**: Efficiently manages a pool of threads to execute tasks, reducing thread creation overhead.

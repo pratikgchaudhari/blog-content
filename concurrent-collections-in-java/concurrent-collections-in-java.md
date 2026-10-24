@@ -4,6 +4,7 @@ date: 2025-09-04
 summary: An overview of Java's concurrent maps, sets, queues, and other thread-safe collections.
 tag: Java
 draft: false
+related: hashtable-vs-hashmap-in-java,reentrant-lock-in-java
 ---
 
 - **ConcurrentHashMap**: A thread-safe hash table supporting full concurrency of retrievals and high expected concurrency for updates.

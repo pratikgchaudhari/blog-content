@@ -4,6 +4,7 @@ date: 2026-01-11
 summary: Compare process.nextTick with Promise microtasks and their execution order in Node.js.
 tag: JavaScript
 draft: false
+related: next-tick-in-vue-js
 ---
 
 | #  | Aspect                              | nextTickQueue (`process.nextTick()`)                                                        | Microtask Queue (Promises / queueMicrotask)                                        | Winner (Higher Priority)  |

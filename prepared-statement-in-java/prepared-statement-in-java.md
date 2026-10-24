@@ -4,6 +4,7 @@ date: 2025-09-01
 summary: Use JDBC PreparedStatement for parameterized SQL queries and repeated database operations.
 tag: Java
 draft: false
+related: java-database-connectivity-sans-framework
 ---
 
 - **PreparedStatement** is a Java interface in the `java.sql` package, extending `Statement` for executing parameterized SQL queries.

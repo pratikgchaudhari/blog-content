@@ -4,6 +4,7 @@ date: 2026-01-13
 summary: Why unused object references can cause memory leaks, and where to clear them.
 tag: Java
 draft: false
+related: types-of-garbage-collectors-in-java,javascripts-deja-vu-repeating-javas-finalization-mistake
 ---
 
 - Obsolete references prevent garbage collection → cause memory leaks

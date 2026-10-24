@@ -4,6 +4,7 @@ date: 2025-09-10
 summary: Share dependencies across a Vue component tree using provide and inject.
 tag: Vue.js
 draft: false
+related: vue-js-run-with-context-api,setup-hook-in-vue-js
 ---
 
 - **Provide**: Allows a parent component to share data with all its descendants, regardless of nesting level.

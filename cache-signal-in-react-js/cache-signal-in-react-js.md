@@ -4,6 +4,7 @@ date: 2025-10-05
 summary: Use cacheSignal to tie asynchronous work to the lifetime of a React server render.
 tag: React
 draft: false
+related: activity-in-react-js,use-effect-event-in-react-js
 ---
 
 - **Introduction**: cacheSignal is a React API introduced in React 19.2, primarily used with React Server Components (RSC) to manage the lifetime of cached operations.

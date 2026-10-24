@@ -4,6 +4,7 @@ date: 2026-10-20
 summary: A comprehensive collection of the top 100 MongoDB indexes interview questions with short, practical answers.
 tag: [mongodb, indexes, interview, database, nosql]
 draft: false
+related: mongodb-interview-questions
 ---
 
 ## Basics of Indexes

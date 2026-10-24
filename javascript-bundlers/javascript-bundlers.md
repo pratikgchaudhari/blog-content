@@ -4,6 +4,7 @@ date: 2025-09-03
 summary: A survey of JavaScript bundlers and build tools, from Webpack and Vite to esbuild.
 tag: JavaScript
 draft: false
+related: top-10-vite-features
 ---
 
 1. **Webpack** - A powerful module bundler that manages complex dependencies and optimizes assets for production.

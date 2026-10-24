@@ -4,6 +4,7 @@ date: 2025-09-14
 summary: Interview questions on memoized calculations, dependencies, and when useMemo is useful.
 tag: React
 draft: false
+related: top-10-react-use-callback-hook-interview-questions,react-compiler
 ---
 
 1. **What is the useMemo() hook in React.js?**  

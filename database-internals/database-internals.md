@@ -4,6 +4,7 @@ date: 2026-10-23
 summary: A crisp reference of core database internals topics that every software engineer should understand.
 tag: database, internals, systems, sql, engineering
 draft: false
+related: wal-databases
 ---
 
 - **Storage Engines**: The component that manages how data is physically stored and retrieved. Row-oriented engines (e.g., InnoDB) optimize for transactional workloads; column-oriented engines (e.g., ClickHouse) optimize for analytical queries.

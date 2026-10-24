@@ -4,6 +4,7 @@ date: 2025-09-23
 summary: A roundup of Java 25 language and runtime features, from scoped values to constructor changes.
 tag: Java
 draft: false
+related: flexible-constructor-bodies-in-java-25
 ---
 
 1. **Scoped Values**: Finalized feature for immutable, thread-local-like data sharing across virtual threads without explicit parameter passing.

@@ -4,6 +4,7 @@ date: 2026-01-12
 summary: How named factory methods offer flexible object creation, caching, and clearer Java APIs.
 tag: Java
 draft: false
+related: top-design-patterns-in-java
 ---
 
 - Static factory methods have descriptive names (unlike anonymous constructors)

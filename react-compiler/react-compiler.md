@@ -4,6 +4,7 @@ date: 2025-09-13
 summary: An overview of React Compiler and its approach to automatic memoization.
 tag: React
 draft: false
+related: rules-of-react,top-10-react-use-memo-interview-questions
 ---
 
 - **React Compiler**: A tool that optimizes React applications by automatically memoizing components and hooks to reduce unnecessary re-renders.

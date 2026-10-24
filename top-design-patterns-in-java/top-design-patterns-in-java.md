@@ -4,6 +4,7 @@ date: 2025-09-20
 summary: A reference to common design patterns and examples of their use in Java.
 tag: Java
 draft: false
+related: javas-prototype-pattern-smart-copypasta-for-new-objects,prefer-static-factory-methods-over-constructors-in-java,open-closed-principle
 ---
 
 1. **Singleton** - Ensures one instance, global access (e.g., `Runtime`).

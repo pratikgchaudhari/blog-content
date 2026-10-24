@@ -4,6 +4,7 @@ date: 2025-09-04
 summary: A reference to explicit locking, fairness, timed acquisition, and conditions with ReentrantLock.
 tag: Java
 draft: false
+related: how-does-the-volatile-keyword-in-java-work,concurrent-collections-in-java
 ---
 
 - **Reentrant**: Thread can reacquire lock, incrementing hold count.

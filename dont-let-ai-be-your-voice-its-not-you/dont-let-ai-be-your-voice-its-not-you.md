@@ -4,6 +4,7 @@ date: 2024-09-01
 summary: A personal argument for keeping your own voice when writing with help from AI.
 tag: Engineering
 draft: false
+related: the-choice-of-tech-stack-is-overrated
 ---
 
 The Internet is being flooded with AI-generated content.

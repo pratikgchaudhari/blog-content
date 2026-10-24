@@ -4,6 +4,7 @@ date: 2025-08-31
 summary: How Vue tracks reactive data and updates the UI when application state changes.
 tag: Vue.js
 draft: false
+related: ref-vs-reactive-in-vue-js,vue-js-watchers
 ---
 
 - **Reactivity System**: Vue.js uses a reactive data system to automatically update the UI when data changes.

@@ -4,6 +4,7 @@ date: 2025-10-06
 summary: Questions and answers on XML, annotations, Java configuration, and Spring bean definitions.
 tag: Spring
 draft: false
+related: bean-scopes-in-spring,top-100-spring-boot-interview-questions
 ---
 
 1. What is a Spring configuration file?  

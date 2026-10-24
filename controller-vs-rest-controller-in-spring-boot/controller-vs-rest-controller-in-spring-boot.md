@@ -4,6 +4,7 @@ date: 2025-08-30
 summary: Compare Spring controllers that render views with REST controllers that return response data.
 tag: Spring
 draft: false
+related: top-10-spring-boot-annotations,servlet-and-filter-registration-in-spring-boot
 ---
 
 - Purpose:

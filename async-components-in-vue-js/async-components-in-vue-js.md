@@ -4,6 +4,7 @@ date: 2025-09-07
 summary: Load Vue components on demand with dynamic imports, loading states, and error handling.
 tag: Vue.js
 draft: false
+related: vue-js-keep-alive,sfc-in-vue-js
 ---
 
 - **Definition**: Async components in Vue.js allow loading components on-demand, improving performance.

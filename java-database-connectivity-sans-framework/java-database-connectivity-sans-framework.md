@@ -4,6 +4,7 @@ date: 2025-09-02
 summary: The steps for connecting to a database, running parameterized queries, and closing JDBC resources.
 tag: Java
 draft: false
+related: prepared-statement-in-java,java-connection-pooling-libraries
 ---
 
 1. **Load JDBC Driver**: Use `Class.forName("driver_class_name")` to load the database driver.

@@ -4,6 +4,7 @@ date: 2025-09-26
 summary: Compare creating a client-rendered React root with hydrating HTML rendered on the server.
 tag: React
 draft: false
+related: render-to-pipeable-stream-in-react-js
 ---
 
 | **Feature**            | **createRoot**                                                                  | **hydrateRoot**                                                                   |

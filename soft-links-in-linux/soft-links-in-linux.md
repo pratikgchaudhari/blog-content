@@ -4,6 +4,7 @@ date: 2025-09-12
 summary: Create and inspect symbolic links, with examples for files, directories, and relative paths.
 tag: Linux
 draft: false
+related: linux-file-system-structure
 ---
 
 Soft links are pointers to files or directories, allowing access from multiple locations without duplicating the original data.

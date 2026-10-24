@@ -4,6 +4,7 @@ date: 2025-09-21
 summary: An overview of Vite's development server, hot module replacement, and build features.
 tag: JavaScript
 draft: false
+related: javascript-bundlers
 ---
 
 1. > **Lightning-Fast Cold Start**: Vite leverages native ES modules in the browser for on-demand file serving, eliminating the need for bundling during development, resulting in near-instant server startup times.

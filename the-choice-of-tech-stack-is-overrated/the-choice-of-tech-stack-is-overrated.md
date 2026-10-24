@@ -4,6 +4,7 @@ date: 2024-09-07
 summary: Why solving the right problem matters more than copying a successful company's technology choices.
 tag: Engineering
 draft: false
+related: dont-let-ai-be-your-voice-its-not-you
 ---
 
 I think, as developers, we focus too much on the Tech Stack.

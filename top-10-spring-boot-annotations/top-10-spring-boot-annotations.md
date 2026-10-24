@@ -4,6 +4,7 @@ date: 2025-08-30
 summary: A reference to Spring Boot annotations for application setup, dependency injection, and web endpoints.
 tag: Spring
 draft: false
+related: controller-vs-rest-controller-in-spring-boot,top-100-spring-boot-interview-questions
 ---
 
 1. _**@SpringBootApplication**_: Marks the main class of a Spring Boot application, enabling auto-configuration, component scanning, and configuration.

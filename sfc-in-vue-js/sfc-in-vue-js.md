@@ -4,6 +4,7 @@ date: 2025-09-03
 summary: How Vue single-file components combine templates, scripts, and styles in one file.
 tag: Vue.js
 draft: false
+related: setup-hook-in-vue-js,async-components-in-vue-js
 ---
 
 - SFC stands for Single File Component in Vue.js

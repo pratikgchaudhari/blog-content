@@ -4,6 +4,7 @@ date: 2025-08-31
 summary: Compare Hashtable and HashMap by synchronization, performance, null handling, and everyday use.
 tag: Java
 draft: false
+related: top-10-java-hashmap-interview-questions,concurrent-collections-in-java
 ---
 
 | Feature | Hashtable | HashMap |

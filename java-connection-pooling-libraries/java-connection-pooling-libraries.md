@@ -4,6 +4,7 @@ date: 2025-09-01
 summary: An overview of JDBC connection pooling libraries and their distinguishing features.
 tag: Java
 draft: false
+related: java-database-connectivity-sans-framework
 ---
 
 1. **HikariCP**

@@ -4,6 +4,7 @@ date: 2025-10-04
 summary: Run a function within a Vue application context using app.runWithContext.
 tag: Vue.js
 draft: false
+related: provide-and-inject-in-vue-js
 ---
 
 The `app.runWithContext()` API in Vue.js is a method introduced in Vue 3 for executing a function within the context of a specific Vue application instance. Here’s a concise explanation in bullet-point format:

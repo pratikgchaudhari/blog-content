@@ -4,6 +4,7 @@ date: 2025-09-14
 summary: Questions and examples on showing optimistic UI updates while asynchronous operations complete.
 tag: React
 draft: false
+related: use-form-status-hook-in-react
 ---
 
 1. **What is the `useOptimistic` hook in React?**  

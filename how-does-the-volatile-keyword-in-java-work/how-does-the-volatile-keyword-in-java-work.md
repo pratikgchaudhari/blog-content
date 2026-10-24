@@ -4,6 +4,7 @@ date: 2025-09-06
 summary: Notes on volatile variables, memory visibility, and communication between Java threads.
 tag: Java
 draft: false
+related: reentrant-lock-in-java
 ---
 
 The `volatile` keyword in Java ensures all threads "see" the latest changes to a variable by enforcing specific memory visibility rules under the Java Memory Model (JMM).

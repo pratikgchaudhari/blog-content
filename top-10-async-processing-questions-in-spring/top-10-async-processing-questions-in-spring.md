@@ -4,6 +4,7 @@ date: 2025-10-01
 summary: Questions and answers on asynchronous methods, executors, scheduling, and error handling in Spring.
 tag: Spring
 draft: false
+related: completable-future-in-java,executor-service-types-in-java
 ---
 
 1. **How do you enable asynchronous processing in Spring?**  

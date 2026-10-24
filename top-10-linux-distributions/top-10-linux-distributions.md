@@ -4,6 +4,7 @@ date: 2025-09-07
 summary: An overview of Linux distributions and the users and workflows they serve.
 tag: Linux
 draft: false
+related: its-omarchy-time
 ---
 
 1. **Ubuntu**: User-friendly, widely supported distro with a vast software ecosystem and regular updates.

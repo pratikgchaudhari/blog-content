@@ -4,6 +4,7 @@ date: 2026-01-11
 summary: Compare Java reflection and method handles for dynamic access to methods and fields.
 tag: Java
 draft: false
+related: classloaders-in-java,unsafe-class-in-java
 ---
 
 | Feature              | java.lang.reflect (Reflection)                                                              | java.lang.invoke (MethodHandles)                                                                  |

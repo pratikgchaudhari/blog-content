@@ -4,6 +4,7 @@ date: 2026-01-15
 summary: The pitfalls of Cloneable, shallow copies, mutable state, and inheritance in Java object copying.
 tag: Java
 draft: false
+related: javas-prototype-pattern-smart-copypasta-for-new-objects
 ---
 
 - Cloneable is a flawed marker interface with no methods

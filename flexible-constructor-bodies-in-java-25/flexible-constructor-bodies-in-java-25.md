@@ -4,6 +4,7 @@ date: 2025-10-04
 summary: How Java 25 changes constructor initialization with statements before super or this calls.
 tag: Java
 draft: false
+related: top-10-java-25-features
 ---
 
 - Flexible constructor bodies, introduced as a standard feature in Java 25 via JEP 513, relax the historical requirement that a constructor must start with an explicit invocation of another constructor (super() or this()). This allows statements to appear before such invocations, enabling more natural and safer object initialization while maintaining top-down construction semantics.

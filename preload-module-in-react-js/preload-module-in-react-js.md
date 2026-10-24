@@ -4,6 +4,7 @@ date: 2025-09-26
 summary: Notes on preloading JavaScript modules and preparing code before a React application needs it.
 tag: React
 draft: false
+related: render-to-pipeable-stream-in-react-js
 ---
 
 - `preloadModule()` is a React API to prefetch JavaScript modules for dynamic imports.

@@ -4,6 +4,7 @@ date: 2024-06-23
 summary: An introduction to the prototype pattern and creating Java objects by copying existing ones.
 tag: Java
 draft: false
+related: why-one-should-override-object-clone-judicioulsy-in-java,top-design-patterns-in-java
 ---
 
 Imagine you're deep in the code trenches.
