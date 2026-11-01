@@ -13,7 +13,7 @@ But what's actually going on in there?
 
 The surprising answer is that Git is very simple at its core. Underneath all the commands is a tiny database that stores four kinds of objects, plus a handful of text files that point at them. Once you see that, things like detached HEAD, rebase rewriting hashes, and "recovering" a deleted branch stop being scary.
 
-In this post we'll open up the `.git` directory, build a commit by hand without ever running `git commit`, and then look at how branches, merges, rebases, packfiles and `fetch` really work. Every hash in the hands-on parts came from really running the commands. If you want the everyday command reference instead, I've covered that in my post on the most commonly used Git commands. This one is about what happens underneath them.
+In this post we'll open up the `.git` directory, build a commit by hand without ever running `git commit`, and then look at how branches, merges, rebases, packfiles and `fetch` really work. If you want the everyday command reference instead, I've covered that in my post on the most commonly used Git commands. This one is about what happens underneath them.
 
 ## Git is a key-value store with a version control system on top
 
