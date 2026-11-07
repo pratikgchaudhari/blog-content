@@ -1,6 +1,6 @@
 ---
 title: Virtual Memory Explained - Pages, Page Tables, TLBs, Page Faults and What It Means for Java
-date: 2026-11-01
+date: 2026-11-07
 summary: A detailed guide to virtual memory covering address spaces, pages and page tables, the MMU and TLB, page faults, swapping, copy-on-write, mmap, overcommit and the OOM killer, huge pages, and what it all means for Java applications.
 tag: virtual-memory, operating-systems, linux, memory-management, performance, jvm, java, systems-programming
 draft: false
