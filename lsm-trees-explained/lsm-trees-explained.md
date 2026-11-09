@@ -171,7 +171,7 @@ Filter memory competes with the block cache and indexes. More filter bits can re
 
 ## Compaction Strategies
 
-### A Worked Merge
+### Merging SSTables Step by Step
 
 Consider three runs, with the most recent on the left. `DEL` denotes a tombstone:
 
