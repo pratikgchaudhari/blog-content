@@ -4,7 +4,7 @@ date: 2026-11-08
 summary: A detailed guide to the N+1 query problem covering lazy and eager fetching, SQL detection, fetch joins, entity graphs, batch and subselect fetching, DTO projections, pagination, and Spring Data JPA.
 tag: jpa, hibernate, spring-data-jpa, sql, databases, performance, fetching, java
 draft: false
-related: top-10-questions-of-query-annotation-in-spring-jpa,database-internals,how-database-indexes-work,latency-percentiles-explained
+related: top-10-questions-of-query-annotation-in-spring-jpa,spring-transactional-annotation-pitfalls,database-internals,how-database-indexes-work,latency-percentiles-explained
 ---
 
 The **N+1 query problem** occurs when an application retrieves a group of records with one query and then issues additional queries while accessing related data for each record. A request that appears to load one list can therefore generate a number of database round trips proportional to the list's size.

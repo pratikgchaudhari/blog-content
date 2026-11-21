@@ -4,7 +4,7 @@ date: 2026-11-08
 summary: A detailed guide to LSM trees covering write-ahead logging, memtables, SSTables, reads, Bloom filters, compaction, tombstones, snapshots, amplification, real systems, and a Java implementation.
 tag: lsm-tree, storage-engines, databases, rocksdb, cassandra, sstable, compaction, data-structures, java
 draft: false
-related: b-trees-explained,wal-databases,how-inverted-indexes-work,database-internals
+related: b-trees-explained,wal-databases,bloom-filters-explained,how-database-indexes-work,database-internals,how-inverted-indexes-work
 ---
 
 A **log-structured merge tree**, or **LSM tree**, is a storage structure that accumulates writes in memory and periodically merges them into sorted files. Instead of repeatedly modifying individual disk pages, it turns many small updates into larger sequential transfers. Reads reconstruct the latest visible value from the memory structures and files that may contain it.

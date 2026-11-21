@@ -4,7 +4,7 @@ date: 2026-01-17
 summary: Balance the convenience of varargs with array allocation costs and generic type-safety concerns.
 tag: Java
 draft: false
-related: covariant-arrays-in-java
+related: covariant-arrays-in-java,generics-in-java
 ---
 
 - Varargs simplify APIs by eliminating explicit array creation from callers

@@ -4,7 +4,7 @@ date: 2026-11-14
 summary: A detailed guide to Bloom filters covering membership queries, false-positive probability, sizing, double hashing, Java and Guava implementations, deletion, scalable filters, alternatives, and storage applications.
 tag: bloom-filter, probabilistic-data-structures, hashing, databases, caching, distributed-systems, java
 draft: false
-related: lsm-trees-explained,how-inverted-indexes-work,database-internals,b-trees-explained
+related: lsm-trees-explained,how-inverted-indexes-work,b-trees-explained,database-internals,caching-types-and-techniques
 ---
 
 A **Bloom filter** is a compact data structure for answering whether an item might belong to a set. It stores a bit array rather than the items themselves. A lookup returns either **definitely absent** or **possibly present**. The second answer requires confirmation if the application needs exact membership.

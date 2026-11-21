@@ -4,7 +4,7 @@ date: 2026-10-22
 summary: Concise Q&A covering Spring AI fundamentals, ChatClient, RAG, tool calling, advisors, vector stores, MCP, and production concerns for Java developers.
 tag: Spring
 draft: false
-related: spring-ai
+related: spring-ai,rag-chatbot-internal-documents
 ---
 
 ## Fundamentals

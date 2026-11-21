@@ -4,7 +4,7 @@ date: 2026-01-17
 summary: How class hierarchies can replace tag fields and scattered conditional logic with polymorphism.
 tag: Java
 draft: false
-related: open-closed-principle
+related: open-closed-principle,solid-principles,software-design-patterns-real-world-examples
 ---
 
 - Tagged classes use a tag field (enum/int) to switch behavior

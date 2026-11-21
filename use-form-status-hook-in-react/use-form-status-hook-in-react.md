@@ -4,7 +4,7 @@ date: 2026-01-10
 summary: Read a parent form's submission status to display pending states and feedback in React.
 tag: React
 draft: false
-related: use-optimistic-in-react-19
+related: use-optimistic-in-react-19,top-10-react-hooks
 ---
 
 - **Purpose**: `useFormStatus` is a React hook that provides status information about the last submission of its parent `<form>`, useful for managing UI during form actions (e.g., with server actions).

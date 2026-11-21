@@ -4,7 +4,7 @@ date: 2026-10-21
 summary: Curated list of the top 100 Spring Boot interview questions with short, crisp answers.
 tag: Spring
 draft: false
-related: top-10-spring-boot-annotations,top-10-spring-configuration-questions
+related: top-10-spring-boot-annotations,top-10-spring-configuration-questions,spring-bean-vs-component,controller-vs-rest-controller-in-spring-boot,top-10-transactional-annotation-in-spring
 ---
 
 ## Basics & Core Concepts

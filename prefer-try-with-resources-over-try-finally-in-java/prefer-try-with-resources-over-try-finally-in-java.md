@@ -4,6 +4,7 @@ date: 2026-01-13
 summary: Simplify resource cleanup and exception handling with Java's try-with-resources statement.
 tag: Java
 draft: false
+related: java-database-connectivity-sans-framework,prepared-statement-in-java,java-connection-pooling-libraries
 ---
 
 - Prefer try-with-resources over try-finally for all closeable resources

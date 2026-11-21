@@ -4,7 +4,7 @@ date: 2026-10-23
 summary: A crisp reference of core database internals topics that every software engineer should understand.
 tag: Database
 draft: false
-related: wal-databases,top-100-oracle-interview-questions,mvcc-in-databases
+related: wal-databases,mvcc-in-databases,b-trees-explained,lsm-trees-explained,how-database-indexes-work,top-100-oracle-interview-questions
 ---
 
 - **Storage Engines**: The component that manages how data is physically stored and retrieved. Row-oriented engines (e.g., InnoDB) optimize for transactional workloads; column-oriented engines (e.g., ClickHouse) optimize for analytical queries.

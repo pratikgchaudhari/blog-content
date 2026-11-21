@@ -4,7 +4,7 @@ date: 2025-10-04
 summary: Questions and answers on custom JPQL and SQL queries, parameters, and pagination in Spring Data.
 tag: Spring
 draft: false
-related: top-10-transactional-annotation-in-spring
+related: n-plus-one-problem-jpa-hibernate,spring-transactional-annotation-pitfalls,top-10-transactional-annotation-in-spring,database-internals
 ---
 
 1. **What is the `@Query` annotation used for in Spring?**  

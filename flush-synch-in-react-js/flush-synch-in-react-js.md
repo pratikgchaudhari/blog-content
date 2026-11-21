@@ -4,6 +4,7 @@ date: 2025-09-28
 summary: How flushSync forces immediate DOM updates, and the trade-offs of synchronous rendering.
 tag: React
 draft: false
+related: react-performance-optimization,create-root-vs-hydrate-root,rules-of-react,activity-in-react-js
 ---
 
 `flushSync()` in React.js is a method from the `react-dom` package that forces React to synchronously update the DOM. Here's a breakdown in bullet points:

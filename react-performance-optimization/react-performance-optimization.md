@@ -4,7 +4,7 @@ date: 2026-11-15
 summary: A practical guide to making React apps faster covering render and commit, measuring tools, memoization and the React Compiler, code splitting, data fetching, and server rendering.
 tag: react, performance, javascript, frontend, memoization, react-compiler, core-web-vitals, ssr
 draft: false
-related: how-redux-works,react-compiler,rules-of-react,javascript-bundlers,latency-percentiles-explained,caching-types-and-techniques,create-root-vs-hydrate-root
+related: react-compiler,rules-of-react,javascript-bundlers,create-root-vs-hydrate-root,how-redux-works,caching-types-and-techniques
 ---
 
 A React app feels slow when the main thread spends too long rendering, when the network delivers too much JavaScript, or when the browser paints late and responds late to input. **Optimization** here means shrinking that work: fewer unnecessary renders, cheaper updates, smaller bundles, and better loading sequences.

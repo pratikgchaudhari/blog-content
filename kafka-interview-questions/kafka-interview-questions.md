@@ -4,6 +4,7 @@ date: 2026-10-20
 summary: A curated collection of 100 essential Apache Kafka interview questions with short, accurate answers covering architecture, producers, consumers, reliability, KRaft, and production best practices.
 tag: Kafka
 draft: false
+related: how-apache-kafka-works,microservices-vs-monolithic-architecture,domain-driven-design,wal-databases
 ---
 
 ## Fundamentals & Architecture

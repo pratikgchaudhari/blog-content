@@ -4,7 +4,7 @@ date: 2026-10-24
 summary: A deep dive into MVCC, covering snapshots, version visibility rules, isolation levels, garbage collection, and how PostgreSQL, MySQL InnoDB, and Oracle implement it.
 tag: Database
 draft: false
-related: wal-databases,database-internals
+related: wal-databases,database-internals,spring-transactional-annotation-pitfalls,top-10-transactional-annotation-in-spring,how-database-indexes-work
 ---
 
 Multi-Version Concurrency Control (MVCC) is the technique most modern databases use to let many transactions read and write the same data at the same time without tripping over each other. Instead of overwriting a row in place and forcing everyone else to wait, the database keeps multiple versions of that row. Each transaction sees a consistent snapshot of the data as it existed at a particular point in time, so readers never block writers and writers never block readers.

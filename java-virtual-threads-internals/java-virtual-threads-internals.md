@@ -4,7 +4,7 @@ date: 2026-11-14
 summary: A detailed look at Java virtual thread internals covering continuations, stack chunks, carriers, the ForkJoinPool scheduler, pinning after JEP 491, and when not to use them.
 tag: java, virtual-threads, project-loom, concurrency, jvm, jdk, threads, performance
 draft: false
-related: virtual-threads-in-java,top-100-java-virtual-threads-interview-questions,thread-per-task-executor,executor-service-types-in-java,completable-future-in-java,virtual-memory-explained,types-of-garbage-collectors-in-java
+related: virtual-threads-in-java,top-100-java-virtual-threads-interview-questions,thread-per-task-executor,executor-service-types-in-java,reentrant-lock-in-java-explained,atomic-classes-in-java
 ---
 
 A **virtual thread** is a lightweight `java.lang.Thread` implemented by the JDK rather than by the operating system. It lets you keep the familiar **thread-per-request** style while scaling to huge numbers of concurrent blocking tasks. Under the hood, the JVM mounts many virtual threads onto a smaller set of **platform threads** (OS threads), parks them when they block, and resumes them later.

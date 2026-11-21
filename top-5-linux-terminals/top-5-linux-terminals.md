@@ -4,7 +4,7 @@ date: 2025-09-20
 summary: A look at Linux terminal emulators and their features for everyday command-line work.
 tag: Linux
 draft: false
-related: linux-ricing,top-10-must-have-linux-tools
+related: linux-ricing,top-10-must-have-linux-tools,top-10-omarchy-features
 ---
 
 1. **GNOME Terminal**

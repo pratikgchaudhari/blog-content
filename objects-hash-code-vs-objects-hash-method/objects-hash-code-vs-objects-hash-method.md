@@ -4,7 +4,7 @@ date: 2026-01-11
 summary: Compare Objects.hashCode and Objects.hash, including their inputs and hashing behavior.
 tag: Java
 draft: false
-related: always-override-hashcode-and-equals-together
+related: always-override-hashcode-and-equals-together,top-10-java-hashmap-interview-questions
 ---
 
 | Feature / Property               | `Objects.hashCode(Object o)`                                                              | `Objects.hash(Object... values)`                                                                                        |

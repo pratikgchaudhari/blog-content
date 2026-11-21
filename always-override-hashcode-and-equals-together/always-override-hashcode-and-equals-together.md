@@ -4,7 +4,7 @@ date: 2026-01-11
 summary: How the equals and hashCode contract affects object equality and hash-based collections.
 tag: Java
 draft: false
-related: objects-hash-code-vs-objects-hash-method,top-10-java-hashmap-interview-questions
+related: objects-hash-code-vs-objects-hash-method,top-10-java-hashmap-interview-questions,hashtable-vs-hashmap-in-java
 ---
 
 - Overriding equals without hashCode directly violates the official hashCode contract

@@ -4,7 +4,7 @@ date: 2026-11-14
 summary: A detailed guide to B-trees and B+ trees covering pages, search, splits, borrowing and merging, database storage layouts, tree height, LSM trade-offs, and a Java implementation.
 tag: b-tree, b-plus-tree, data-structures, databases, indexing, mysql, postgresql, storage-engines, java
 draft: false
-related: how-database-indexes-work,database-internals,virtual-memory-explained
+related: how-database-indexes-work,database-internals,lsm-trees-explained,how-inverted-indexes-work,virtual-memory-explained
 ---
 A **B-tree** is a balanced search tree designed to store many sorted keys in each node. Each internal node directs a search towards one of several children, and all leaves remain at the same depth. When nodes correspond to storage pages, this wide, shallow structure reduces the number of page accesses needed to find a key.
 

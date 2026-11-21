@@ -4,7 +4,7 @@ date: 2025-09-20
 summary: Design considerations for rate limiting, including algorithms, quotas, scaling, and distributed state.
 tag: System Design
 draft: false
-related: the-redis-cache-nightmare-and-we-fixed-it-with-one-simple-command
+related: the-redis-cache-nightmare-and-we-fixed-it-with-one-simple-command,caching-types-and-techniques,latency-percentiles-explained,load-balancing-explained
 ---
 
 1. **Algorithm Selection**: Choose an appropriate rate-limiting algorithm based on requirements, such as Token Bucket (allows bursts), Leaky Bucket (smooths traffic), Fixed Window Counter (simple but has boundary issues), or Sliding Window Log (accurate but memory-intensive).

@@ -4,7 +4,7 @@ date: 2025-10-01
 summary: Stream server-rendered React HTML in Node.js with renderToPipeableStream and Suspense.
 tag: React
 draft: false
-related: create-root-vs-hydrate-root,preload-module-in-react-js
+related: create-root-vs-hydrate-root,preload-module-in-react-js,react-performance-optimization,cache-signal-in-react-js
 ---
 
 - `renderToPipeableStream` (React 18, `react-dom/server`) renders React components to a Node.js stream for server-side rendering with streaming HTML.

@@ -4,7 +4,7 @@ date: 2025-09-20
 summary: A selection of Linux tools for editing, terminal sessions, monitoring, transfers, and development.
 tag: Linux
 draft: false
-related: top-20-essential-vim-commands,top-5-linux-terminals
+related: top-20-essential-vim-commands,top-5-linux-terminals,top-20-basic-linux-shell-commands,date-in-linux
 ---
 
 1. Vim/Emacs - Powerful text editors for coding, editing configs, or managing files. Vim is lightweight and keyboard-driven; Emacs is extensible with a vast ecosystem.

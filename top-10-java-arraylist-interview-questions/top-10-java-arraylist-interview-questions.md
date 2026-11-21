@@ -4,7 +4,7 @@ date: 2025-09-13
 summary: Interview questions on ArrayList storage, resizing, access costs, iteration, and thread safety.
 tag: Java
 draft: false
-related: top-10-java-hashmap-interview-questions
+related: top-10-java-hashmap-interview-questions,hashtable-vs-hashmap-in-java,why-one-should-prefer-collections-over-stream-in-java
 ---
 
 1. **What is an ArrayList in Java?**  

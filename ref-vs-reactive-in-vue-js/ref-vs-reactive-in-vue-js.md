@@ -4,7 +4,7 @@ date: 2025-08-31
 summary: Compare ref and reactive for managing values and objects in Vue's reactivity system.
 tag: Vue.js
 draft: false
-related: vue-js-reactivity-system,setup-hook-in-vue-js
+related: vue-js-reactivity-system,setup-hook-in-vue-js,vue-js-watchers,top-10-vue-js-concepts
 ---
 
 | **Aspect**                | **`ref()`**                                                                 | **`reactive()`**                                                             |

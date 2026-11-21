@@ -4,6 +4,7 @@ date: 2025-09-11
 summary: Render modals and other Vue content outside their parent DOM hierarchy with Teleport.
 tag: Vue.js
 draft: false
+related: sfc-in-vue-js,vue-js-directives,vue-js-keep-alive,top-10-vue-js-concepts
 ---
 
 - **Purpose**: `<Teleport>` in Vue.js allows rendering a component's content to a different DOM location outside its parent hierarchy.

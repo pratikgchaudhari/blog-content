@@ -4,7 +4,7 @@ date: 2026-11-09
 summary: A detailed guide to Redux covering its Flux origins, the three principles, a from-scratch store, combineReducers, middleware internals, thunks, react-redux subscriptions and selectors, Redux Toolkit, RTK Query, and when not to use Redux.
 tag: redux, react, react-redux, redux-toolkit, state-management, javascript, typescript, frontend
 draft: false
-related: top-10-use-external-store-react-hook-interview-questions,top-10-react-use-context-interview-questions,software-design-patterns-real-world-examples,how-apache-kafka-works
+related: top-10-use-external-store-react-hook-interview-questions,top-10-react-use-context-interview-questions,react-performance-optimization,software-design-patterns-real-world-examples,top-10-react-hooks
 ---
 
 **Redux** is a small JavaScript library for managing application state. It keeps the whole state of an application in a single object called the **store**, allows that state to change only through plain objects called **actions**, and computes every new state with pure functions called **reducers**. Because every change flows through one place in one format, the state of the application at any moment can be explained by the list of actions that produced it.

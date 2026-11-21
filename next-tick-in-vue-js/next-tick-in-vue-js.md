@@ -4,7 +4,7 @@ date: 2025-09-23
 summary: Use nextTick to run code after Vue applies reactive changes to the DOM.
 tag: Vue.js
 draft: false
-related: next-tick-queue-vs-micro-task-queue-in-node-js,vue-js-watchers
+related: next-tick-queue-vs-micro-task-queue-in-node-js,vue-js-watchers,vue-js-reactivity-system,vue-js-lifecycle-hooks
 ---
 
 - `nextTick()` defers a callback until the next DOM update cycle in Vue.js.

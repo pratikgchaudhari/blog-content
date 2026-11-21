@@ -4,6 +4,7 @@ date: 2026-10-24
 summary: A practical guide to everyday Git commands, explaining when to use each one with real examples, from setting up a repository to branching, merging, rebasing, and undoing mistakes.
 tag: git, version-control, git-commands, developer-tools, command-line, github
 draft: false
+related: how-git-works-internally
 ---
 
 Git is the version control system almost every software team uses today. It records the history of your code, lets several people work on the same project without overwriting each other's changes, and makes it possible to try out ideas on a branch and throw them away if they don't work.

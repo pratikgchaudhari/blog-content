@@ -4,7 +4,7 @@ date: 2026-11-09
 summary: A detailed guide to inverted indexes covering text analysis, postings lists, Boolean and phrase queries, BM25 ranking, segments, compression, distributed search, PostgreSQL GIN, and a Java implementation.
 tag: inverted-index, search, lucene, elasticsearch, information-retrieval, databases, data-structures, java
 draft: false
-related: how-database-indexes-work,b-trees-explained,database-internals,how-apache-kafka-works
+related: how-database-indexes-work,b-trees-explained,lsm-trees-explained,bloom-filters-explained,rag-chatbot-internal-documents,database-internals
 ---
 
 An **inverted index** is a data structure that maps a term to the documents containing it. Instead of opening every document to find a word, a search engine looks up that word and reads its list of matching document IDs. That reversal, from documents pointing to words to words pointing to documents, gives the index its name.

@@ -4,7 +4,7 @@ date: 2025-09-03
 summary: Questions and answers on stream creation, pipelines, intermediate operations, and terminal operations.
 tag: Java
 draft: false
-related: top-10-java-stream-methods
+related: top-10-java-stream-methods,why-method-references-are-preferable-over-lambdas-in-java,why-one-should-prefer-collections-over-stream-in-java
 ---
 
 Here are the top 10 Java Stream interview questions with concise, single-line answers:

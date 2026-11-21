@@ -4,7 +4,7 @@ date: 2025-09-06
 summary: A concise reference to everyday Linux commands for navigating and managing files.
 tag: Linux
 draft: false
-related: date-in-linux,the-weird-case-of-yes-command-in-linux
+related: date-in-linux,the-weird-case-of-yes-command-in-linux,top-10-must-have-linux-tools,linux-file-system-structure,soft-links-in-linux
 ---
 
 Here are the top 20 Linux shell commands with concise, one-line explanations:

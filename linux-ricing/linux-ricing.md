@@ -4,7 +4,7 @@ date: 2025-09-13
 summary: An introduction to customizing Linux desktops, themes, window managers, and workflows.
 tag: Linux
 draft: false
-related: top-5-linux-terminals,top-10-omarchy-features
+related: top-5-linux-terminals,top-10-omarchy-features,top-10-linux-distributions,its-omarchy-time
 ---
 
 - **Linux Ricing**: Customizing Linux desktop environments for aesthetics and functionality.

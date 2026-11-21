@@ -4,7 +4,7 @@ date: 2026-10-23
 summary: Concise list of the top 100 Oracle Database interview questions with short, crisp answers for quick preparation.
 tag: Database
 draft: false
-related: database-internals,wal-databases
+related: database-internals,wal-databases,mvcc-in-databases,b-trees-explained,how-database-indexes-work
 ---
 
 1. **What is Oracle Database?**  

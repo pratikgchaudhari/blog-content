@@ -4,7 +4,7 @@ date: 2025-09-06
 summary: React to data changes with Vue watchers, including immediate and deep watching options.
 tag: Vue.js
 draft: false
-related: vue-js-reactivity-system,next-tick-in-vue-js
+related: vue-js-reactivity-system,next-tick-in-vue-js,ref-vs-reactive-in-vue-js,top-10-vue-js-concepts
 ---
 
 - **Reactive Data Monitoring**: Tracks changes to reactive properties (data, props, computed) and runs a callback.

@@ -4,7 +4,7 @@ date: 2025-09-13
 summary: Display and format dates, work with timestamps, and use the Linux date command.
 tag: Linux
 draft: false
-related: top-20-basic-linux-shell-commands
+related: top-20-basic-linux-shell-commands,the-weird-case-of-yes-command-in-linux,top-10-must-have-linux-tools
 ---
 
 - **Basic Usage**: `date` - Displays the current date and time in the default format (e.g., `Sat Sep 13 11:40:25 IST 2025`).

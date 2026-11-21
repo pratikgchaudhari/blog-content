@@ -4,7 +4,7 @@ date: 2026-10-30
 summary: The classic design patterns explained through the JDK, Spring, Hibernate and SLF4J code you already use every day, plus a realistic app scenario for each.
 tag: design-patterns, java, spring, hibernate, software-design, object-oriented-design, gof, backend
 draft: false
-related: top-design-patterns-in-java,solid-principles,javas-prototype-pattern-smart-copypasta-for-new-objects
+related: top-design-patterns-in-java,solid-principles,javas-prototype-pattern-smart-copypasta-for-new-objects,open-closed-principle,domain-driven-design
 ---
 
 You've been using design patterns for years. You just didn't call them that.

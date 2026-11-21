@@ -4,6 +4,7 @@ date: 2026-10-25
 summary: A detailed guide to Apache Kafka covering topics, partitions, brokers, producers, consumers, replication, delivery guarantees, KRaft, and the ecosystem, with code examples and practical tips.
 tag: kafka, apache-kafka, event-streaming, distributed-systems, messaging, system-design, java, backend
 draft: false
+related: kafka-interview-questions,microservices-vs-monolithic-architecture,domain-driven-design,wal-databases,latency-percentiles-explained
 ---
 
 Apache Kafka is a distributed event streaming platform. At its core, it is a durable, replicated, append-only log that many applications can write to and read from at the same time, at very high throughput. Companies use it to move data between services, process streams of events in real time, collect logs and metrics, and keep databases, search indexes, and caches in sync.

@@ -4,7 +4,7 @@ date: 2026-11-07
 summary: A detailed guide to virtual memory covering address spaces, pages and page tables, the MMU and TLB, page faults, swapping, copy-on-write, mmap, overcommit and the OOM killer, huge pages, and what it all means for Java applications.
 tag: virtual-memory, operating-systems, linux, memory-management, performance, jvm, java, systems-programming
 draft: false
-related: types-of-garbage-collectors-in-java,database-internals,latency-percentiles-explained
+related: types-of-garbage-collectors-in-java,b-trees-explained,database-internals,how-docker-works-internally,latency-percentiles-explained
 ---
 
 Virtual memory is a memory management technique in which every process gets its own private, contiguous range of addresses, and the operating system and the CPU together translate those addresses into locations in physical RAM. Programs never deal with physical memory directly. They work with virtual addresses, and the hardware maps them to real memory behind the scenes, one page at a time.

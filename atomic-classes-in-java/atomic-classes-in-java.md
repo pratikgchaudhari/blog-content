@@ -4,7 +4,7 @@ date: 2026-11-15
 summary: A practical guide to java.util.concurrent.atomic covering CAS, memory semantics, VarHandle, ABA, field updaters, LongAdder, and when locks or volatile are a better fit.
 tag: java, concurrency, atomic, cas, varhandle, longadder, multithreading, juc
 draft: false
-related: how-does-the-volatile-keyword-in-java-work,reentrant-lock-in-java,reentrant-lock-in-java-explained,java-virtual-threads-internals,concurrent-collections-in-java,completable-future-in-java,unsafe-class-in-java
+related: how-does-the-volatile-keyword-in-java-work,reentrant-lock-in-java-explained,concurrent-vs-synchronized-collections-in-java,concurrent-collections-in-java,java-virtual-threads-internals,unsafe-class-in-java
 ---
 
 The **atomic classes** in `java.util.concurrent.atomic` give you lock-free, thread-safe updates to a single variable. An `AtomicInteger` can increment a counter, an `AtomicReference` can swing a pointer, and a `LongAdder` can absorb high-contention sums, without a `synchronized` block or a `ReentrantLock` around that one value. The package is not a drop-in replacement for `Integer` or `Long`. The official documentation is explicit: these types do not define useful `equals`, `hashCode`, or `compareTo` methods, and they are poor hash table keys because they are meant to be mutated.

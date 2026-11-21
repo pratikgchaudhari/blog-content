@@ -4,7 +4,7 @@ date: 2024-06-16
 summary: A Redis cache incident, the timeout behind it, and the command that resolved the problem.
 tag: Engineering
 draft: false
-related: top-10-considerations-for-rate-limiter-system-design
+related: caching-types-and-techniques,top-10-considerations-for-rate-limiter-system-design,latency-percentiles-explained
 ---
 
 Redis. The undisputed king of caching. Mention caching, and Redis pops up. It's that simple.

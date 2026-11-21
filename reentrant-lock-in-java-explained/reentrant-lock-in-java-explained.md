@@ -4,7 +4,7 @@ date: 2026-11-15
 summary: A practical guide to ReentrantLock covering reentrancy, fairness, Condition objects, AQS internals, virtual threads, and when to choose synchronized, read-write locks, StampedLock, or other tools instead.
 tag: java, concurrency, reentrantlock, locks, aqs, multithreading, juc, synchronized
 draft: false
-related: reentrant-lock-in-java,java-virtual-threads-internals,virtual-threads-in-java,how-does-the-volatile-keyword-in-java-work,concurrent-collections-in-java,executor-service-types-in-java,completable-future-in-java,thread-per-task-executor
+related: reentrant-lock-in-java,how-does-the-volatile-keyword-in-java-work,concurrent-vs-synchronized-collections-in-java,atomic-classes-in-java,java-virtual-threads-internals,concurrent-collections-in-java
 ---
 
 **Mutual exclusion** keeps concurrent threads from stepping on shared mutable state at the same time. In Java, the classic tool is the intrinsic monitor behind `synchronized`. Since Java 5, `java.util.concurrent.locks.ReentrantLock` has offered the same basic exclusion model with more control: interruptible and timed acquisition, optional fairness, multiple condition queues, and richer monitoring.

@@ -4,7 +4,7 @@ date: 2026-10-03
 summary: How Executors.newCachedThreadPool creates, reuses, and retires threads for short-lived tasks.
 tag: Java
 draft: false
-related: executor-service-types-in-java
+related: executor-service-types-in-java,single-thread-executor,thread-per-task-executor,key-features-of-executor-frameowork-in-java,callable-vs-runnable-in-java
 ---
 
 A cached thread pool is created with `Executors.newCachedThreadPool()`. Under the hood it is a `ThreadPoolExecutor` configured for short, bursty tasks that should reuse threads when possible and discard them when idle.

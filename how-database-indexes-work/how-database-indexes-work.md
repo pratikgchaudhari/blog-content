@@ -4,6 +4,7 @@ date: 2026-10-25
 summary: A detailed guide to database indexes, covering how B-trees, hash, bitmap, GIN, GiST, BRIN, and other index types work under the hood and which queries each one is built for.
 tag: databases, indexes, b-tree, query-optimization, performance, PostgreSQL, MySQL, SQL
 draft: false
+related: b-trees-explained,database-internals,lsm-trees-explained,how-inverted-indexes-work,mongodb-indexes-interview-questions
 ---
 
 An index is a separate data structure that a database keeps alongside a table so it can find rows without reading the whole table. It works much like the index at the back of a book. Instead of flipping through every page looking for "write-ahead logging", you look the term up in the index, which tells you exactly which pages to turn to.

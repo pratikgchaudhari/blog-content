@@ -4,7 +4,7 @@ date: 2025-09-14
 summary: What the yes command does, how to use it in pipelines, and why it behaves as it does.
 tag: Linux
 draft: false
-related: top-20-basic-linux-shell-commands
+related: top-20-basic-linux-shell-commands,date-in-linux,top-10-must-have-linux-tools
 ---
 
 The `yes` command in Linux is a simple utility that outputs a string repeatedly until interrupted.

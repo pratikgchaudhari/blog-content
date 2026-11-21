@@ -4,7 +4,7 @@ date: 2026-10-24
 summary: A detailed explanation of Write-Ahead Logging (WAL), covering its principles, recovery mechanisms, ARIES algorithm, and real-world implementations in modern databases.
 tag: Database
 draft: false
-related: database-internals,top-100-oracle-interview-questions,mvcc-in-databases
+related: database-internals,mvcc-in-databases,lsm-trees-explained,top-100-oracle-interview-questions,how-apache-kafka-works
 ---
 
 Write-Ahead Logging (WAL) is a fundamental technique used by virtually every modern relational and many non-relational database systems to guarantee durability and atomicity while enabling efficient crash recovery. The core idea is simple yet powerful: before any change is applied to the actual data pages on disk, a record describing that change must first be written to a durable sequential log. If the system crashes at any point, the log contains enough information to reconstruct a consistent database state.

@@ -4,7 +4,7 @@ date: 2025-09-11
 summary: Compare Linux file systems by their features and typical uses.
 tag: Linux
 draft: false
-related: linux-file-system-structure
+related: linux-file-system-structure,soft-links-in-linux,how-docker-works-internally
 ---
 
 | **File System** | **Description** | **Key Features** | **Use Case** |

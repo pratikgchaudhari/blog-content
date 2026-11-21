@@ -4,7 +4,7 @@ date: 2026-01-10
 summary: How Java class loaders find classes, delegate loading, and organize the runtime class hierarchy.
 tag: Java
 draft: false
-related: reflection-apis-vs-method-handles
+related: reflection-apis-vs-method-handles,unsafe-class-in-java
 ---
 
 - ClassLoaders in Java dynamically load .class files into the JVM at runtime.

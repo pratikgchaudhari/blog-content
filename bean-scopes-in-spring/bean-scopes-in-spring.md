@@ -4,7 +4,7 @@ date: 2025-08-31
 summary: A reference to Spring bean scopes and the lifetimes of the objects they manage.
 tag: Spring
 draft: false
-related: top-10-spring-configuration-questions
+related: spring-bean-vs-component,top-10-spring-configuration-questions,top-10-spring-boot-annotations,top-100-spring-boot-interview-questions
 ---
 
 1. **Singleton** (Default)

@@ -4,7 +4,7 @@ date: 2026-11-07
 summary: How load balancers work, from L4 vs L7 and the classic algorithms (with Java code) to health checks, high availability, global load balancing and the mistakes that cause outages.
 tag: load-balancing, system-design, distributed-systems, networking, nginx, haproxy, kubernetes, backend, java
 draft: false
-related: microservices-vs-monolithic-architecture,how-dns-works,kubernetes-interview-questions
+related: microservices-vs-monolithic-architecture,how-dns-works,kubernetes-basics,kubernetes-interview-questions,latency-percentiles-explained
 ---
 
 **Load balancing** distributes network traffic across a group of servers or service instances. A load balancer selects a destination for each connection or request, excludes unhealthy destinations, and provides a stable entry point while the backend pool changes. Its decisions affect capacity, availability, and response time.

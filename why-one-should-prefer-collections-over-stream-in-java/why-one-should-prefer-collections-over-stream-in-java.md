@@ -4,7 +4,7 @@ date: 2026-01-16
 summary: Why collections can provide a more flexible return type than single-use streams.
 tag: Java
 draft: false
-related: top-10-java-stream-methods
+related: top-10-java-stream-methods,top-10-java-streams-interview-questions-with-answers,why-method-references-are-preferable-over-lambdas-in-java,top-10-java-arraylist-interview-questions
 ---
 
 - Collections allow multiple iterations, size checks, contains, random access

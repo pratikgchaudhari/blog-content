@@ -4,7 +4,7 @@ date: 2026-10-02
 summary: What they are & the pitfalls of relying on them
 tag: Java
 draft: false
-related: why-one-should-use-varargs-judiciously-in-java,generics-in-java
+related: generics-in-java,why-one-should-use-varargs-judiciously-in-java
 ---
 
 Covariant arrays mean that if `S` is a subtype of `T`, then `S[]` is a subtype of `T[]`. You can assign an array of a more specific type to a variable of a more general array type.

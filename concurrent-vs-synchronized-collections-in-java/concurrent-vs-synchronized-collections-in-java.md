@@ -4,7 +4,7 @@ date: 2026-11-15
 summary: A practical comparison of synchronized wrappers, legacy Vector and Hashtable, and java.util.concurrent collections, covering internals, iteration, and how to choose.
 tag: java, concurrency, concurrenthashmap, collections, blockingqueue, jsr-166, multithreading, juc
 draft: false
-related: concurrent-collections-in-java,atomic-classes-in-java,reentrant-lock-in-java,reentrant-lock-in-java-explained,how-does-the-volatile-keyword-in-java-work,java-virtual-threads-internals,executor-service-types-in-java,hashtable-vs-hashmap-in-java
+related: concurrent-collections-in-java,atomic-classes-in-java,reentrant-lock-in-java-explained,reentrant-lock-in-java,hashtable-vs-hashmap-in-java,how-does-the-volatile-keyword-in-java-work
 ---
 
 A **thread-safe collection** is one that several threads can use without corrupting its structure or losing updates. Java offers two main families for that job. **Synchronized collections** (`Collections.synchronizedMap`, `Vector`, `Hashtable`) protect every call with a single mutex. **Concurrent collections** (`ConcurrentHashMap`, `CopyOnWriteArrayList`, `BlockingQueue`, and the rest of `java.util.concurrent`) are also thread-safe, but they are not governed by one exclusive lock, so many threads can often make progress at the same time.

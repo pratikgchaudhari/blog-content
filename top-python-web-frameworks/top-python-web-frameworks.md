@@ -4,6 +4,7 @@ date: 2025-09-04
 summary: An overview of Python web frameworks and the kinds of applications they support.
 tag: Python
 draft: false
+related: the-choice-of-tech-stack-is-overrated,owasp-top-10-explained
 ---
 
 - **Django**: A high-level, full-stack framework emphasizing rapid development and clean design. It includes an ORM, admin interface, and robust security features, ideal for complex, database-driven applications.

@@ -4,7 +4,7 @@ date: 2026-11-01
 summary: A hands-on tour of Git's internals, from blobs, trees and commits to the index, refs, packfiles and the reflog, including building a commit by hand with plumbing commands.
 tag: git, version-control, git-internals, developer-tools, software-engineering, java
 draft: false
-related: most-commonly-used-git-commands
+related: most-commonly-used-git-commands,owasp-top-10-explained
 ---
 
 Most of us use Git every day and treat it like a black box. You type `git commit`, something happens, and your work is "saved". You type `git reset --hard`, something else happens, and your last few commits are "gone".

@@ -4,7 +4,7 @@ date: 2025-09-05
 summary: A reference to Vue components, directives, reactivity, props, and other core concepts.
 tag: Vue.js
 draft: false
-related: vue-js-reactivity-system,vue-js-directives,vue-js-lifecycle-hooks
+related: vue-js-reactivity-system,vue-js-directives,vue-js-lifecycle-hooks,setup-hook-in-vue-js,sfc-in-vue-js,ref-vs-reactive-in-vue-js
 ---
 
 - **Components**: Reusable, self-contained building blocks for UI, encapsulating HTML, CSS, and JS.

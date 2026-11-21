@@ -4,7 +4,7 @@ date: 2026-11-21
 summary: A detailed look under the hood of Docker covering its architecture, Linux namespaces and cgroups, overlay2 image layers, registries, networking, volumes, security, Docker Desktop, a hand-built container and running Java in containers.
 tag: docker, containers, linux, namespaces, cgroups, containerd, devops, java, backend
 draft: false
-related: virtual-memory-explained,kubernetes-interview-questions,linux-file-systems
+related: kubernetes-basics,kubernetes-interview-questions,linux-file-systems,linux-file-system-structure,virtual-memory-explained
 ---
 
 Docker is a platform for building, shipping, and running applications in containers. A container packages an application together with everything it needs (libraries, runtime, configuration) and runs it as an isolated process on a shared Linux kernel. The same image runs the same way on a laptop, a CI server, and a production cluster.
