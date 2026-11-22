@@ -2,7 +2,7 @@
 title: Rules of React
 date: 2025-09-13
 summary: A checklist of React practices for components, hooks, state updates, and rendering.
-tag: React
+tag: react
 draft: false
 related: react-compiler,react-performance-optimization,top-10-react-hooks,top-10-react-use-memo-interview-questions
 ---

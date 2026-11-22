@@ -2,7 +2,7 @@
 title: Classloaders in Java
 date: 2026-01-10
 summary: How Java class loaders find classes, delegate loading, and organize the runtime class hierarchy.
-tag: Java
+tag: java
 draft: false
 related: reflection-apis-vs-method-handles,unsafe-class-in-java
 ---

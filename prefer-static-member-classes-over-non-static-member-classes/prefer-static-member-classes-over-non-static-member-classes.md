@@ -2,7 +2,7 @@
 title: Why one should favour static member classes over non-static ones?
 date: 2026-01-11
 summary: Why static nested classes can reduce hidden references, memory overhead, and accidental retention.
-tag: Java
+tag: java
 draft: false
 related: eliminate-obsolete-references-in-java,prefer-static-factory-methods-over-constructors-in-java,types-of-garbage-collectors-in-java
 ---

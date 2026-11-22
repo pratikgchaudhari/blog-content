@@ -2,7 +2,7 @@
 title: Top 10 Linux Distributions
 date: 2025-09-07
 summary: An overview of Linux distributions and the users and workflows they serve.
-tag: Linux
+tag: linux
 draft: false
 related: its-omarchy-time,top-10-omarchy-features,linux-ricing
 ---

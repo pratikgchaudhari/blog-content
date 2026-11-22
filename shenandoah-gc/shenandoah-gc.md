@@ -2,7 +2,7 @@
 title: Shenandoah GC - The Quiet Revolution in Low-Latency Java
 date: 2026-10-24
 summary: A deep dive into how Shenandoah achieves near-constant low pause times through concurrent marking, evacuation, and reference updating.
-tag: Java
+tag: java
 draft: false
 related: types-of-garbage-collectors-in-java,want-a-faster-java-program-meet-epsilon-gc-and-its-dangerous-tradeoffs,virtual-memory-explained,eliminate-obsolete-references-in-java
 ---

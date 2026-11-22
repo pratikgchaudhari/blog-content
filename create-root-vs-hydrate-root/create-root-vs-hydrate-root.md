@@ -2,7 +2,7 @@
 title: Create Root vs Hydrate Root in React.js
 date: 2025-09-26
 summary: Compare creating a client-rendered React root with hydrating HTML rendered on the server.
-tag: React
+tag: react
 draft: false
 related: render-to-pipeable-stream-in-react-js,preload-module-in-react-js,react-performance-optimization,cache-signal-in-react-js
 ---

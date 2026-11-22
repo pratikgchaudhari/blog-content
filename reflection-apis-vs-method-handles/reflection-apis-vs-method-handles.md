@@ -2,7 +2,7 @@
 title: Reflection APIs vs MethodHandles API in Java
 date: 2026-01-11
 summary: Compare Java reflection and method handles for dynamic access to methods and fields.
-tag: Java
+tag: java
 draft: false
 related: classloaders-in-java,unsafe-class-in-java
 ---

@@ -2,7 +2,7 @@
 title: The Redis Cache Nightmare: How We Fixed It with One Simple Command
 date: 2024-06-16
 summary: A Redis cache incident, the timeout behind it, and the command that resolved the problem.
-tag: Engineering
+tag: engineering
 draft: false
 related: caching-types-and-techniques,top-10-considerations-for-rate-limiter-system-design,latency-percentiles-explained
 ---

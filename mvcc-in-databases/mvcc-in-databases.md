@@ -2,7 +2,7 @@
 title: How Multi-Version Concurrency Control (MVCC) Works in Databases
 date: 2026-10-24
 summary: A deep dive into MVCC, covering snapshots, version visibility rules, isolation levels, garbage collection, and how PostgreSQL, MySQL InnoDB, and Oracle implement it.
-tag: Database
+tag: database
 draft: false
 related: wal-databases,database-internals,spring-transactional-annotation-pitfalls,top-10-transactional-annotation-in-spring,how-database-indexes-work
 ---

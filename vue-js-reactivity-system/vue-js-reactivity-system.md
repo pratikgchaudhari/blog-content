@@ -2,7 +2,7 @@
 title: Vue.js Reactivity System
 date: 2025-08-31
 summary: How Vue tracks reactive data and updates the UI when application state changes.
-tag: Vue.js
+tag: vue.js
 draft: false
 related: ref-vs-reactive-in-vue-js,vue-js-watchers,top-10-vue-js-concepts,setup-hook-in-vue-js
 ---

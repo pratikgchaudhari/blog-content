@@ -2,7 +2,7 @@
 title: Top 100 Java Virtual Threads Interview Questions
 date: 2026-10-23
 summary: A concise collection of the top 100 Java Virtual Threads interview questions with short, crisp answers for quick preparation.
-tag: Java
+tag: java
 draft: false
 related: java-virtual-threads-internals,virtual-threads-in-java,thread-per-task-executor,executor-service-types-in-java
 ---

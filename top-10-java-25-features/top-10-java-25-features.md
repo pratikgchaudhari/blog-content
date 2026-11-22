@@ -2,7 +2,7 @@
 title: Top 10 Java 25 Features
 date: 2025-09-23
 summary: A roundup of Java 25 language and runtime features, from scoped values to constructor changes.
-tag: Java
+tag: java
 draft: false
 related: flexible-constructor-bodies-in-java-25,virtual-threads-in-java
 ---

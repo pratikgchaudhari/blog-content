@@ -2,7 +2,7 @@
 title: JavaScript Bundlers
 date: 2025-09-03
 summary: A survey of JavaScript bundlers and build tools, from Webpack and Vite to esbuild.
-tag: JavaScript
+tag: javascript
 draft: false
 related: top-10-vite-features,react-performance-optimization,css-basic-concepts
 ---

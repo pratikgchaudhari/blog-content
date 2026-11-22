@@ -2,7 +2,7 @@
 title: Covariant Arrays in Java
 date: 2026-10-02
 summary: What they are & the pitfalls of relying on them
-tag: Java
+tag: java
 draft: false
 related: generics-in-java,why-one-should-use-varargs-judiciously-in-java
 ---

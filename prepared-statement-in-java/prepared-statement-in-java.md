@@ -2,7 +2,7 @@
 title: Prepared Statement in Java
 date: 2025-09-01
 summary: Use JDBC PreparedStatement for parameterized SQL queries and repeated database operations.
-tag: Java
+tag: java
 draft: false
 related: java-database-connectivity-sans-framework,java-connection-pooling-libraries,owasp-top-10-explained,prefer-try-with-resources-over-try-finally-in-java
 ---

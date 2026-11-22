@@ -2,7 +2,7 @@
 title: The Open-Closed Principle in Java
 date: 2026-10-02
 summary: What it is & how to implement it in real-world use cases
-tag: Java
+tag: java
 draft: false
 related: solid-principles,why-one-should-prefer-class-hierarchies-over-tagged-classes-in-java,software-design-patterns-real-world-examples,top-design-patterns-in-java
 ---

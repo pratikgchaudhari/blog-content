@@ -2,7 +2,7 @@
 title: Bean Scopes in Spring
 date: 2025-08-31
 summary: A reference to Spring bean scopes and the lifetimes of the objects they manage.
-tag: Spring
+tag: spring
 draft: false
 related: spring-bean-vs-component,top-10-spring-configuration-questions,top-10-spring-boot-annotations,top-100-spring-boot-interview-questions
 ---

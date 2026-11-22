@@ -2,7 +2,7 @@
 title: Objects.hashCode() vs Objects.hash() in Java
 date: 2026-01-11
 summary: Compare Objects.hashCode and Objects.hash, including their inputs and hashing behavior.
-tag: Java
+tag: java
 draft: false
 related: always-override-hashcode-and-equals-together,top-10-java-hashmap-interview-questions
 ---

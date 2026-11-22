@@ -2,7 +2,7 @@
 title: Top 10 considerations while designing Rate-Limiter in a System Design Interview
 date: 2025-09-20
 summary: Design considerations for rate limiting, including algorithms, quotas, scaling, and distributed state.
-tag: System Design
+tag: system design
 draft: false
 related: the-redis-cache-nightmare-and-we-fixed-it-with-one-simple-command,caching-types-and-techniques,latency-percentiles-explained,load-balancing-explained
 ---

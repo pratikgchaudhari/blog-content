@@ -2,7 +2,7 @@
 title: Top 10 Vite Features
 date: 2025-09-21
 summary: An overview of Vite's development server, hot module replacement, and build features.
-tag: JavaScript
+tag: javascript
 draft: false
 related: javascript-bundlers,react-performance-optimization,css-basic-concepts
 ---

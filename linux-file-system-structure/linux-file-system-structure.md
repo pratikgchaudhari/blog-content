@@ -2,7 +2,7 @@
 title: Linux File System Structure
 date: 2025-09-07
 summary: A tour of the Linux directory tree and the roles of its main system directories.
-tag: Linux
+tag: linux
 draft: false
 related: linux-file-systems,soft-links-in-linux,how-docker-works-internally,top-20-basic-linux-shell-commands
 ---

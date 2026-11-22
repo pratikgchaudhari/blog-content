@@ -2,7 +2,7 @@
 title: Top Spring Configuration Questions
 date: 2025-10-06
 summary: Questions and answers on XML, annotations, Java configuration, and Spring bean definitions.
-tag: Spring
+tag: spring
 draft: false
 related: spring-bean-vs-component,bean-scopes-in-spring,top-10-spring-boot-annotations,top-100-spring-boot-interview-questions
 ---

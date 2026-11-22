@@ -2,7 +2,7 @@
 title: The weird case of 'yes' command in Linux
 date: 2025-09-14
 summary: What the yes command does, how to use it in pipelines, and why it behaves as it does.
-tag: Linux
+tag: linux
 draft: false
 related: top-20-basic-linux-shell-commands,date-in-linux,top-10-must-have-linux-tools
 ---

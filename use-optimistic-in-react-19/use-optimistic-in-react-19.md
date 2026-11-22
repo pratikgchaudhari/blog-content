@@ -2,7 +2,7 @@
 title: useOptimistic() in React.js
 date: 2025-09-14
 summary: Questions and examples on showing optimistic UI updates while asynchronous operations complete.
-tag: React
+tag: react
 draft: false
 related: use-form-status-hook-in-react,top-10-react-hooks
 ---

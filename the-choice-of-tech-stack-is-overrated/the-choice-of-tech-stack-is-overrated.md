@@ -2,7 +2,7 @@
 title: The choice of Tech Stack is overrated!
 date: 2024-09-07
 summary: Why solving the right problem matters more than copying a successful company's technology choices.
-tag: Engineering
+tag: engineering
 draft: false
 related: dont-let-ai-be-your-voice-its-not-you,top-python-web-frameworks
 ---

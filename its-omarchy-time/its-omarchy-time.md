@@ -2,7 +2,7 @@
 title: It's Omarchy Time!
 date: 2025-09-21
 summary: First impressions of Omarchy and returning to a Linux desktop for everyday development.
-tag: Linux
+tag: linux
 draft: false
 related: top-10-omarchy-features,top-10-linux-distributions,linux-ricing
 ---

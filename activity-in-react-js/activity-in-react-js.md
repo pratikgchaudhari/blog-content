@@ -2,7 +2,7 @@
 title: <Activity> in React.js
 date: 2025-10-04
 summary: Preserve component state while controlling visibility and background work with React's Activity component.
-tag: React
+tag: react
 draft: false
 related: cache-signal-in-react-js,use-effect-event-in-react-js,flush-synch-in-react-js,top-10-react-hooks,rules-of-react
 ---

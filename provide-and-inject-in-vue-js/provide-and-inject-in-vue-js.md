@@ -2,7 +2,7 @@
 title: Provide & Inject Vue.js
 date: 2025-09-10
 summary: Share dependencies across a Vue component tree using provide and inject.
-tag: Vue.js
+tag: vue.js
 draft: false
 related: vue-js-run-with-context-api,setup-hook-in-vue-js,vue-js-reactivity-system,top-10-vue-js-concepts
 ---

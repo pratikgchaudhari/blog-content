@@ -2,7 +2,7 @@
 title: Top 10 questions for @Query annotation in Spring Data
 date: 2025-10-04
 summary: Questions and answers on custom JPQL and SQL queries, parameters, and pagination in Spring Data.
-tag: Spring
+tag: spring
 draft: false
 related: n-plus-one-problem-jpa-hibernate,spring-transactional-annotation-pitfalls,top-10-transactional-annotation-in-spring,database-internals
 ---

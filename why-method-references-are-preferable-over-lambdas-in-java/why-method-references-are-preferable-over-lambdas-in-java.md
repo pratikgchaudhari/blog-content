@@ -2,7 +2,7 @@
 title: Why method references are preferable over lambdas in Java:
 date: 2026-01-11
 summary: When method references make Java code more concise, readable, and reusable than equivalent lambdas.
-tag: Java
+tag: java
 draft: false
 related: top-10-java-stream-methods,top-10-java-streams-interview-questions-with-answers,why-one-should-prefer-collections-over-stream-in-java
 ---

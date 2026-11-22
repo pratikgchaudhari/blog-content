@@ -2,7 +2,7 @@
 title: Want a Faster Java Program? Meet Epsilon GC (and Its Dangerous Trade-Offs)
 date: 2024-06-22
 summary: An exploration of Epsilon GC and the memory trade-offs of running without garbage collection.
-tag: Java
+tag: java
 draft: false
 related: types-of-garbage-collectors-in-java,shenandoah-gc,virtual-memory-explained,eliminate-obsolete-references-in-java
 ---

@@ -2,7 +2,7 @@
 title: Top 10 Spring Boot Annotations
 date: 2025-08-30
 summary: A reference to Spring Boot annotations for application setup, dependency injection, and web endpoints.
-tag: Spring
+tag: spring
 draft: false
 related: spring-bean-vs-component,controller-vs-rest-controller-in-spring-boot,top-10-spring-configuration-questions,top-100-spring-boot-interview-questions,bean-scopes-in-spring
 ---

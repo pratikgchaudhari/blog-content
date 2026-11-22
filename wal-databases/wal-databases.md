@@ -2,7 +2,7 @@
 title: How Write-Ahead Logging Ensures Database Durability and Crash Recovery
 date: 2026-10-24
 summary: A detailed explanation of Write-Ahead Logging (WAL), covering its principles, recovery mechanisms, ARIES algorithm, and real-world implementations in modern databases.
-tag: Database
+tag: database
 draft: false
 related: database-internals,mvcc-in-databases,lsm-trees-explained,top-100-oracle-interview-questions,how-apache-kafka-works
 ---

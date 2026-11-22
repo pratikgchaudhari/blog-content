@@ -2,7 +2,7 @@
 title: How does the volatile keyword in Java work?
 date: 2025-09-06
 summary: Notes on volatile variables, memory visibility, and communication between Java threads.
-tag: Java
+tag: java
 draft: false
 related: atomic-classes-in-java,reentrant-lock-in-java-explained,reentrant-lock-in-java,concurrent-vs-synchronized-collections-in-java
 ---

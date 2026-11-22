@@ -2,7 +2,7 @@
 title: Top Python Web Frameworks
 date: 2025-09-04
 summary: An overview of Python web frameworks and the kinds of applications they support.
-tag: Python
+tag: python
 draft: false
 related: the-choice-of-tech-stack-is-overrated,owasp-top-10-explained
 ---

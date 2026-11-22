@@ -2,7 +2,7 @@
 title: Soft Links in Linux
 date: 2025-09-12
 summary: Create and inspect symbolic links, with examples for files, directories, and relative paths.
-tag: Linux
+tag: linux
 draft: false
 related: linux-file-system-structure,linux-file-systems,top-20-basic-linux-shell-commands
 ---

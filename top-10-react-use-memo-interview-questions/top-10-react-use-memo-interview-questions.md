@@ -2,7 +2,7 @@
 title: Top 10 React.js useMemo() Interview Questions
 date: 2025-09-14
 summary: Interview questions on memoized calculations, dependencies, and when useMemo is useful.
-tag: React
+tag: react
 draft: false
 related: top-10-react-use-callback-hook-interview-questions,react-compiler,react-performance-optimization,top-10-react-hooks,rules-of-react
 ---

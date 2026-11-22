@@ -2,7 +2,7 @@
 title: Unsafe Class in Java
 date: 2026-01-10
 summary: An overview of Unsafe's low-level operations and how they bypass Java's usual safety checks.
-tag: Java
+tag: java
 draft: false
 related: atomic-classes-in-java,reflection-apis-vs-method-handles,classloaders-in-java
 ---

@@ -2,7 +2,7 @@
 title: Spring AI
 date: 2025-08-31
 summary: An overview of Spring AI, model integration, prompts, embeddings, and vector databases.
-tag: Spring
+tag: spring
 draft: false
 related: spring-ai-top-100-interview-questions,rag-chatbot-internal-documents
 ---

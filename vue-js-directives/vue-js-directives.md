@@ -2,7 +2,7 @@
 title: Vue.js Directives
 date: 2025-09-02
 summary: A reference to Vue directives for binding, forms, conditional rendering, and lists.
-tag: Vue.js
+tag: vue.js
 draft: false
 related: vue-js-event-modifiers,top-10-vue-js-concepts,teleport-in-vue-js,sfc-in-vue-js
 ---

@@ -2,7 +2,7 @@
 title: cacheSignal() in React.js
 date: 2025-10-05
 summary: Use cacheSignal to tie asynchronous work to the lifetime of a React server render.
-tag: React
+tag: react
 draft: false
 related: activity-in-react-js,use-effect-event-in-react-js,render-to-pipeable-stream-in-react-js,create-root-vs-hydrate-root
 ---

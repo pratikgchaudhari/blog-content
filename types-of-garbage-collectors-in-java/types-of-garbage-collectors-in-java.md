@@ -2,7 +2,7 @@
 title: Types of Garbage Collectors in Java
 date: 2025-08-30
 summary: A reference to Java garbage collectors and their approaches to throughput, pauses, and memory.
-tag: Java
+tag: java
 draft: false
 related: want-a-faster-java-program-meet-epsilon-gc-and-its-dangerous-tradeoffs,shenandoah-gc,eliminate-obsolete-references-in-java,javascripts-deja-vu-repeating-javas-finalization-mistake,virtual-memory-explained
 ---

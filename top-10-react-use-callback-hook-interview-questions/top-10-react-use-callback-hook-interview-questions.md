@@ -2,7 +2,7 @@
 title: Top 10 React.js useCallback() Interview Question
 date: 2025-09-14
 summary: Interview questions on callback memoization, dependency arrays, and React rendering performance.
-tag: React
+tag: react
 draft: false
 related: top-10-react-use-memo-interview-questions,react-compiler,top-10-react-hooks,react-performance-optimization
 ---

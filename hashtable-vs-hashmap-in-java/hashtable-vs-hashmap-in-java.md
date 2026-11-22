@@ -2,7 +2,7 @@
 title: Hashtable vs HashMap in Java
 date: 2025-08-31
 summary: Compare Hashtable and HashMap by synchronization, performance, null handling, and everyday use.
-tag: Java
+tag: java
 draft: false
 related: top-10-java-hashmap-interview-questions,concurrent-collections-in-java,concurrent-vs-synchronized-collections-in-java,always-override-hashcode-and-equals-together
 ---

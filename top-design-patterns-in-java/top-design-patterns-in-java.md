@@ -2,7 +2,7 @@
 title: Top Design Patterns in Java
 date: 2025-09-20
 summary: A reference to common design patterns and examples of their use in Java.
-tag: Java
+tag: java
 draft: false
 related: software-design-patterns-real-world-examples,javas-prototype-pattern-smart-copypasta-for-new-objects,prefer-static-factory-methods-over-constructors-in-java,open-closed-principle,solid-principles,domain-driven-design
 ---

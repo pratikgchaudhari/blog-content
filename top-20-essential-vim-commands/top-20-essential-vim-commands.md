@@ -2,7 +2,7 @@
 title: Top 20 Essential Vim commands
 date: 2025-09-06
 summary: A quick reference to Vim commands for editing, navigation, saving, and quitting.
-tag: Linux
+tag: linux
 draft: false
 related: top-10-must-have-linux-tools,top-5-linux-terminals,linux-ricing
 ---

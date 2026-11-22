@@ -2,7 +2,7 @@
 title: <KeepAlive> in Vue.js
 date: 2025-09-05
 summary: Preserve dynamic component state and manage cached instances with Vue's KeepAlive component.
-tag: Vue.js
+tag: vue.js
 draft: false
 related: vue-js-lifecycle-hooks,async-components-in-vue-js,teleport-in-vue-js,top-10-vue-js-concepts
 ---

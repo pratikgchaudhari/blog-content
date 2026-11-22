@@ -2,7 +2,7 @@
 title: Top 10 useExternalStore() React.js hook Interview Questions
 date: 2025-09-16
 summary: Interview questions on subscribing to external state with React's useSyncExternalStore hook.
-tag: React
+tag: react
 draft: false
 related: how-redux-works,top-10-react-hooks,top-10-react-use-context-interview-questions
 ---

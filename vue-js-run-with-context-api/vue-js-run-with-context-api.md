@@ -2,7 +2,7 @@
 title: app.runWithContext() in Vue.js
 date: 2025-10-04
 summary: Run a function within a Vue application context using app.runWithContext.
-tag: Vue.js
+tag: vue.js
 draft: false
 related: provide-and-inject-in-vue-js,setup-hook-in-vue-js,vue-js-reactivity-system
 ---

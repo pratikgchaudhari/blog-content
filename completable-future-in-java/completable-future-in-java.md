@@ -2,7 +2,7 @@
 title: CompletableFuture in Java
 date: 2026-10-02
 summary: Common questions regarding CompletableFuture in Java
-tag: Java
+tag: java
 draft: false
 related: callable-vs-runnable-in-java,executor-service-types-in-java,thread-per-task-executor,java-virtual-threads-internals,top-10-async-processing-questions-in-spring
 ---

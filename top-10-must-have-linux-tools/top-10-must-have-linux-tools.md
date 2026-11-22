@@ -2,7 +2,7 @@
 title: Top 10 must-have Linux Tools
 date: 2025-09-20
 summary: A selection of Linux tools for editing, terminal sessions, monitoring, transfers, and development.
-tag: Linux
+tag: linux
 draft: false
 related: top-20-essential-vim-commands,top-5-linux-terminals,top-20-basic-linux-shell-commands,date-in-linux
 ---

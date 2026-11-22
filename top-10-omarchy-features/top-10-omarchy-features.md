@@ -2,7 +2,7 @@
 title: Top 10 Omarchy Features
 date: 2025-09-10
 summary: A look at Omarchy's desktop workflow, customization options, and included developer tools.
-tag: Linux
+tag: linux
 draft: false
 related: its-omarchy-time,linux-ricing,top-10-linux-distributions
 ---

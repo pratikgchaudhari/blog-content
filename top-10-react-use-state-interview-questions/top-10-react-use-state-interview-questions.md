@@ -2,7 +2,7 @@
 title: Top 10 React.js useState() Interview Questions
 date: 2025-09-13
 summary: Interview questions and examples covering state initialization, updates, and React rendering.
-tag: React
+tag: react
 draft: false
 related: usestate-vs-useref,top-10-react-hooks
 ---

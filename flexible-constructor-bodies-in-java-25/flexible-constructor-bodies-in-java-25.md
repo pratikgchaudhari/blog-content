@@ -2,7 +2,7 @@
 title: Flexible Constructor Bodies in Java 25
 date: 2025-10-04
 summary: How Java 25 changes constructor initialization with statements before super or this calls.
-tag: Java
+tag: java
 draft: false
 related: top-10-java-25-features,prefer-static-factory-methods-over-constructors-in-java
 ---

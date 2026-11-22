@@ -2,7 +2,7 @@
 title: Java Database Connectivity Sans Framework
 date: 2025-09-02
 summary: The steps for connecting to a database, running parameterized queries, and closing JDBC resources.
-tag: Java
+tag: java
 draft: false
 related: prepared-statement-in-java,java-connection-pooling-libraries,prefer-try-with-resources-over-try-finally-in-java
 ---

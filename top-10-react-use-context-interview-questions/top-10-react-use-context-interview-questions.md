@@ -2,7 +2,7 @@
 title: Top 10 React.js useContext() Interview Questions
 date: 2025-09-13
 summary: Interview questions on reading context and sharing data across React components.
-tag: React
+tag: react
 draft: false
 related: top-10-react-hooks,how-redux-works,top-10-use-external-store-react-hook-interview-questions
 ---

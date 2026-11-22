@@ -2,7 +2,7 @@
 title: Essential Database Internals Every Engineer Should Know
 date: 2026-10-23
 summary: A crisp reference of core database internals topics that every software engineer should understand.
-tag: Database
+tag: database
 draft: false
 related: wal-databases,mvcc-in-databases,b-trees-explained,lsm-trees-explained,how-database-indexes-work,top-100-oracle-interview-questions
 ---

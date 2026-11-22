@@ -2,7 +2,7 @@
 title: Why one should prefer try-with-resources over try-finally in Java?
 date: 2026-01-13
 summary: Simplify resource cleanup and exception handling with Java's try-with-resources statement.
-tag: Java
+tag: java
 draft: false
 related: java-database-connectivity-sans-framework,prepared-statement-in-java,java-connection-pooling-libraries
 ---

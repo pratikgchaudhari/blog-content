@@ -2,7 +2,7 @@
 title: React Compiler
 date: 2025-09-13
 summary: An overview of React Compiler and its approach to automatic memoization.
-tag: React
+tag: react
 draft: false
 related: react-performance-optimization,rules-of-react,top-10-react-use-memo-interview-questions,top-10-react-use-callback-hook-interview-questions,top-10-react-hooks
 ---

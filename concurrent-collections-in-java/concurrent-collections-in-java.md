@@ -2,7 +2,7 @@
 title: Concurrent Collections in Java
 date: 2025-09-04
 summary: An overview of Java's concurrent maps, sets, queues, and other thread-safe collections.
-tag: Java
+tag: java
 draft: false
 related: concurrent-vs-synchronized-collections-in-java,hashtable-vs-hashmap-in-java,reentrant-lock-in-java,reentrant-lock-in-java-explained,atomic-classes-in-java
 ---

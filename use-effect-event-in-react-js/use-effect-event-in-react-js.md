@@ -2,7 +2,7 @@
 title: useEffectEvent() in React.js
 date: 2025-10-05
 summary: Separate non-reactive logic from React Effects with useEffectEvent.
-tag: React
+tag: react
 draft: false
 related: activity-in-react-js,top-10-react-hooks,cache-signal-in-react-js,rules-of-react
 ---

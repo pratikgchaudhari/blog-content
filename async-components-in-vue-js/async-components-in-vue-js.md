@@ -2,7 +2,7 @@
 title: Async Components in Vue.js
 date: 2025-09-07
 summary: Load Vue components on demand with dynamic imports, loading states, and error handling.
-tag: Vue.js
+tag: vue.js
 draft: false
 related: vue-js-keep-alive,sfc-in-vue-js,vue-js-lifecycle-hooks,top-10-vue-js-concepts
 ---

@@ -2,7 +2,7 @@
 title: Top 10 Questions of @Transactional annotation in Spring
 date: 2025-10-04
 summary: Questions and answers on transaction boundaries, propagation, and rollback with Spring's Transactional annotation.
-tag: Spring
+tag: spring
 draft: false
 related: spring-transactional-annotation-pitfalls,top-10-questions-of-query-annotation-in-spring-jpa,n-plus-one-problem-jpa-hibernate,mvcc-in-databases
 ---

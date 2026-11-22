@@ -2,7 +2,7 @@
 title: Generics in Java
 date: 2025-09-26
 summary: A guide to type parameters, reusable APIs, and the type-safety benefits of Java generics.
-tag: Java
+tag: java
 draft: false
 related: covariant-arrays-in-java,why-one-should-use-varargs-judiciously-in-java,why-one-should-prefer-collections-over-stream-in-java
 ---

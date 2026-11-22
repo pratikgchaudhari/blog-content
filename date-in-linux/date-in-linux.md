@@ -2,7 +2,7 @@
 title: Dat(ing) in Linux
 date: 2025-09-13
 summary: Display and format dates, work with timestamps, and use the Linux date command.
-tag: Linux
+tag: linux
 draft: false
 related: top-20-basic-linux-shell-commands,the-weird-case-of-yes-command-in-linux,top-10-must-have-linux-tools
 ---

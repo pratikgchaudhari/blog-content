@@ -2,7 +2,7 @@
 title: useFormStatus() hook in React
 date: 2026-01-10
 summary: Read a parent form's submission status to display pending states and feedback in React.
-tag: React
+tag: react
 draft: false
 related: use-optimistic-in-react-19,top-10-react-hooks
 ---

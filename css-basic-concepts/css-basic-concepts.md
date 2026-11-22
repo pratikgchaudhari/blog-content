@@ -2,7 +2,7 @@
 title: CSS Basic Concepts:
 date: 2025-09-05
 summary: A quick reference to selectors, the box model, layout, and other CSS fundamentals.
-tag: CSS
+tag: css
 draft: false
 related: javascript-bundlers,top-10-vite-features,sfc-in-vue-js
 ---

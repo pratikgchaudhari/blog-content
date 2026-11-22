@@ -2,7 +2,7 @@
 title: Top 10 React Hooks
 date: 2025-08-31
 summary: A reference to React hooks, their use cases, and when they were introduced.
-tag: React
+tag: react
 draft: false
 related: top-10-react-use-state-interview-questions,usestate-vs-useref,top-10-react-use-memo-interview-questions,top-10-react-use-callback-hook-interview-questions,top-10-react-use-context-interview-questions,use-effect-event-in-react-js
 ---

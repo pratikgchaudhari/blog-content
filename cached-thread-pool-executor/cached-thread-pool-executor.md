@@ -2,7 +2,7 @@
 title: How the Cached Thread Pool Executor Works in Java
 date: 2026-10-03
 summary: How Executors.newCachedThreadPool creates, reuses, and retires threads for short-lived tasks.
-tag: Java
+tag: java
 draft: false
 related: executor-service-types-in-java,single-thread-executor,thread-per-task-executor,key-features-of-executor-frameowork-in-java,callable-vs-runnable-in-java
 ---

@@ -2,7 +2,7 @@
 title: Vue.js setup() Hook
 date: 2025-09-01
 summary: Organize reactive state, computed values, methods, and lifecycle hooks with Vue's setup function.
-tag: Vue.js
+tag: vue.js
 draft: false
 related: ref-vs-reactive-in-vue-js,vue-js-lifecycle-hooks,provide-and-inject-in-vue-js,sfc-in-vue-js
 ---

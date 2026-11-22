@@ -2,7 +2,7 @@
 title: How the Thread-Per-Task Executor Works in Java
 date: 2026-10-20
 summary: Explanation of Java's thread-per-task executor, focusing on virtual threads and how it differs from traditional thread pools.
-tag: Java
+tag: java
 draft: false
 related: executor-service-types-in-java,java-virtual-threads-internals,virtual-threads-in-java,top-100-java-virtual-threads-interview-questions,completable-future-in-java
 ---

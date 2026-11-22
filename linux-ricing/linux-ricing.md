@@ -2,7 +2,7 @@
 title: Linux Ricing
 date: 2025-09-13
 summary: An introduction to customizing Linux desktops, themes, window managers, and workflows.
-tag: Linux
+tag: linux
 draft: false
 related: top-5-linux-terminals,top-10-omarchy-features,top-10-linux-distributions,its-omarchy-time
 ---

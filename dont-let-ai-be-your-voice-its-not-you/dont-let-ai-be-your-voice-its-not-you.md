@@ -2,7 +2,7 @@
 title: Don't let AI be your voice. It's not you!
 date: 2024-09-01
 summary: A personal argument for keeping your own voice when writing with help from AI.
-tag: Engineering
+tag: engineering
 draft: false
 related: the-choice-of-tech-stack-is-overrated
 ---

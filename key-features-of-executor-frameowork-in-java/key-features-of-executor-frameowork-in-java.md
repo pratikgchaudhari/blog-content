@@ -2,7 +2,7 @@
 title: Key Features of Executor Framework in Java
 date: 2025-09-03
 summary: The Executor framework's tools for thread pools, asynchronous tasks, and scheduling.
-tag: Java
+tag: java
 draft: false
 related: executor-service-types-in-java,callable-vs-runnable-in-java,completable-future-in-java,cached-thread-pool-executor,thread-per-task-executor
 ---

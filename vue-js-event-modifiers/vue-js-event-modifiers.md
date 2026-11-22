@@ -2,7 +2,7 @@
 title: Vue.js Event Modifiers
 date: 2025-09-01
 summary: Use Vue event modifiers to control propagation, default actions, and event handling.
-tag: Vue.js
+tag: vue.js
 draft: false
 related: vue-js-directives,top-10-vue-js-concepts,vue-js-lifecycle-hooks
 ---

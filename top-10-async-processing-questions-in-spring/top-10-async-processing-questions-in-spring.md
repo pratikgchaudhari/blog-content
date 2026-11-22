@@ -2,7 +2,7 @@
 title: Top 10 questions related to Async processing in Spring
 date: 2025-10-01
 summary: Questions and answers on asynchronous methods, executors, scheduling, and error handling in Spring.
-tag: Spring
+tag: spring
 draft: false
 related: completable-future-in-java,executor-service-types-in-java,thread-per-task-executor,java-virtual-threads-internals
 ---

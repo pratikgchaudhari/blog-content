@@ -2,7 +2,7 @@
 title: Vue.js Lifecycle Hooks
 date: 2025-08-31
 summary: A reference to the hooks that run as Vue components are created, mounted, updated, and removed.
-tag: Vue.js
+tag: vue.js
 draft: false
 related: vue-js-keep-alive,setup-hook-in-vue-js,top-10-vue-js-concepts,sfc-in-vue-js,next-tick-in-vue-js
 ---

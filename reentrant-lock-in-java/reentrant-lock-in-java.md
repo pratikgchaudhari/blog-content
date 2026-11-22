@@ -2,7 +2,7 @@
 title: Reentrant Lock in Java:
 date: 2025-09-04
 summary: A reference to explicit locking, fairness, timed acquisition, and conditions with ReentrantLock.
-tag: Java
+tag: java
 draft: false
 related: reentrant-lock-in-java-explained,how-does-the-volatile-keyword-in-java-work,concurrent-vs-synchronized-collections-in-java,concurrent-collections-in-java,atomic-classes-in-java,java-virtual-threads-internals
 ---
