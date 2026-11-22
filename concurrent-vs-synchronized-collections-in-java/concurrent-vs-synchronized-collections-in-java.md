@@ -2,7 +2,7 @@
 title: Concurrent vs Synchronized Collections in Java Explained - Wrappers, ConcurrentHashMap and Queues
 date: 2026-11-15
 summary: A practical comparison of synchronized wrappers, legacy Vector and Hashtable, and java.util.concurrent collections, covering internals, iteration, and how to choose.
-tag: java, concurrency, concurrenthashmap, collections, blockingqueue, jsr-166, multithreading, juc
+tag: java, concurrency, collections, multithreading, juc
 draft: false
 related: concurrent-collections-in-java,atomic-classes-in-java,reentrant-lock-in-java-explained,reentrant-lock-in-java,hashtable-vs-hashmap-in-java,how-does-the-volatile-keyword-in-java-work
 ---

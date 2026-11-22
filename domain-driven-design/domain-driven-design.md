@@ -2,7 +2,7 @@
 title: Domain-Driven Design Explained with Real-World Java Examples
 date: 2026-11-20
 summary: A practical guide to Domain-Driven Design, from ubiquitous language and bounded contexts to aggregates, domain events, and hexagonal architecture, with Java examples from an e-commerce ordering system.
-tag: ddd, domain-driven-design, software-architecture, software-design, microservices, java, backend
+tag: domain-driven-design, software-architecture, software-design, java, backend
 draft: false
 related: microservices-vs-monolithic-architecture,solid-principles,software-design-patterns-real-world-examples,top-design-patterns-in-java,how-apache-kafka-works
 ---

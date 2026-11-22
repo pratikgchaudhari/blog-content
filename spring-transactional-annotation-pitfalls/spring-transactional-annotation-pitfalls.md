@@ -2,7 +2,7 @@
 title: "@Transactional in Spring Boot Explained - Proxies, Propagation, Isolation, Rollback Rules and Common Pitfalls"
 date: 2026-11-21
 summary: A detailed guide to Spring Boot's @Transactional annotation covering proxy mechanics, propagation, isolation, readOnly, rollback rules, and the pitfalls that break transaction boundaries.
-tag: spring-boot, spring, transactional, jpa, hibernate, databases, java, aop
+tag: spring-boot, spring, transactional, jpa, hibernate
 draft: false
 related: n-plus-one-problem-jpa-hibernate,top-10-questions-of-query-annotation-in-spring-jpa,top-10-transactional-annotation-in-spring,database-internals,wal-databases,mvcc-in-databases
 ---

@@ -2,7 +2,7 @@
 title: How Git Works Internally - Objects, Refs, the Index and Packfiles
 date: 2026-11-01
 summary: A hands-on tour of Git's internals, from blobs, trees and commits to the index, refs, packfiles and the reflog, including building a commit by hand with plumbing commands.
-tag: git, version-control, git-internals, developer-tools, software-engineering, java
+tag: git, version-control, git-internals, developer-tools, software-engineering
 draft: false
 related: most-commonly-used-git-commands,owasp-top-10-explained
 ---

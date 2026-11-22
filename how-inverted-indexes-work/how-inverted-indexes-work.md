@@ -2,7 +2,7 @@
 title: How Inverted Indexes Work - Postings, Phrase Queries, BM25, Lucene and Full-Text Search
 date: 2026-11-09
 summary: A detailed guide to inverted indexes covering text analysis, postings lists, Boolean and phrase queries, BM25 ranking, segments, compression, distributed search, PostgreSQL GIN, and a Java implementation.
-tag: inverted-index, search, lucene, elasticsearch, information-retrieval, databases, data-structures, java
+tag: inverted-index, search, databases, data-structures, java
 draft: false
 related: how-database-indexes-work,b-trees-explained,lsm-trees-explained,bloom-filters-explained,rag-chatbot-internal-documents,database-internals
 ---

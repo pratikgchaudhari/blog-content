@@ -2,7 +2,7 @@
 title: SOLID Principles Explained with Real-World Java Examples
 date: 2026-10-28
 summary: A practical guide to the five SOLID principles of object-oriented design, with before-and-after Java refactors, common misreadings, and advice on when not to apply them.
-tag: solid, design-principles, object-oriented-design, clean-code, software-design, java, backend
+tag: solid, object-oriented-design, software-design, java, backend
 draft: false
 related: open-closed-principle,software-design-patterns-real-world-examples,top-design-patterns-in-java,why-one-should-prefer-class-hierarchies-over-tagged-classes-in-java,domain-driven-design
 ---

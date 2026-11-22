@@ -2,7 +2,7 @@
 title: How Java Virtual Threads Work - Continuations, Carrier Threads, Mounting, Pinning and Scheduling
 date: 2026-11-14
 summary: A detailed look at Java virtual thread internals covering continuations, stack chunks, carriers, the ForkJoinPool scheduler, pinning after JEP 491, and when not to use them.
-tag: java, virtual-threads, project-loom, concurrency, jvm, jdk, threads, performance
+tag: java, virtual-threads, concurrency, jvm, performance
 draft: false
 related: virtual-threads-in-java,top-100-java-virtual-threads-interview-questions,thread-per-task-executor,executor-service-types-in-java,reentrant-lock-in-java-explained,atomic-classes-in-java
 ---

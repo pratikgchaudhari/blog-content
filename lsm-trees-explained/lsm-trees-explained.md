@@ -2,7 +2,7 @@
 title: LSM Trees Explained - Memtables, SSTables, Bloom Filters, Compaction and Storage Trade-Offs
 date: 2026-11-08
 summary: A detailed guide to LSM trees covering write-ahead logging, memtables, SSTables, reads, Bloom filters, compaction, tombstones, snapshots, amplification, real systems, and a Java implementation.
-tag: lsm-tree, storage-engines, databases, rocksdb, cassandra, sstable, compaction, data-structures, java
+tag: lsm-tree, storage-engines, databases, data-structures, java
 draft: false
 related: b-trees-explained,wal-databases,bloom-filters-explained,how-database-indexes-work,database-internals,how-inverted-indexes-work
 ---

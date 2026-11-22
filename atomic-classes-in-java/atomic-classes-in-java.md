@@ -2,7 +2,7 @@
 title: Atomic Classes in Java Explained - CAS, Memory Semantics, VarHandle and Adders
 date: 2026-11-15
 summary: A practical guide to java.util.concurrent.atomic covering CAS, memory semantics, VarHandle, ABA, field updaters, LongAdder, and when locks or volatile are a better fit.
-tag: java, concurrency, atomic, cas, varhandle, longadder, multithreading, juc
+tag: java, concurrency, atomic, multithreading, juc
 draft: false
 related: how-does-the-volatile-keyword-in-java-work,reentrant-lock-in-java-explained,concurrent-vs-synchronized-collections-in-java,concurrent-collections-in-java,java-virtual-threads-internals,unsafe-class-in-java
 ---

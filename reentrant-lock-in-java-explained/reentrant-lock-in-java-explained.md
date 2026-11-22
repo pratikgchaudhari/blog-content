@@ -2,7 +2,7 @@
 title: ReentrantLock in Java Explained - Fairness, Conditions, tryLock, AQS Internals and Alternatives
 date: 2026-11-15
 summary: A practical guide to ReentrantLock covering reentrancy, fairness, Condition objects, AQS internals, virtual threads, and when to choose synchronized, read-write locks, StampedLock, or other tools instead.
-tag: java, concurrency, reentrantlock, locks, aqs, multithreading, juc, synchronized
+tag: java, concurrency, reentrantlock, multithreading, juc
 draft: false
 related: reentrant-lock-in-java,how-does-the-volatile-keyword-in-java-work,concurrent-vs-synchronized-collections-in-java,atomic-classes-in-java,java-virtual-threads-internals,concurrent-collections-in-java
 ---

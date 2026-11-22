@@ -2,7 +2,7 @@
 title: "@Bean vs @Component in Spring Explained - Component Scanning, Java Configuration and When to Use Each"
 date: 2026-11-21
 summary: A practical guide to @Bean and @Component in Spring Boot covering scanning, stereotypes, full vs lite configuration mode, naming, scopes and decision rules.
-tag: spring, spring-boot, bean, component, dependency-injection, java-config, ioc
+tag: spring, spring-boot, bean, component, dependency-injection
 draft: false
 related: top-10-spring-boot-annotations,bean-scopes-in-spring,top-10-spring-configuration-questions,controller-vs-rest-controller-in-spring-boot,top-100-spring-boot-interview-questions
 ---

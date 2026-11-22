@@ -2,7 +2,7 @@
 title: How Redux Works - Store, Actions, Reducers, Middleware, React-Redux and Redux Toolkit
 date: 2026-11-09
 summary: A detailed guide to Redux covering its Flux origins, the three principles, a from-scratch store, combineReducers, middleware internals, thunks, react-redux subscriptions and selectors, Redux Toolkit, RTK Query, and when not to use Redux.
-tag: redux, react, react-redux, redux-toolkit, state-management, javascript, typescript, frontend
+tag: redux, react, state-management, javascript, frontend
 draft: false
 related: top-10-use-external-store-react-hook-interview-questions,top-10-react-use-context-interview-questions,react-performance-optimization,software-design-patterns-real-world-examples,top-10-react-hooks
 ---

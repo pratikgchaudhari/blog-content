@@ -2,7 +2,7 @@
 title: React Performance Optimization Explained - Rendering, Memoization, Bundles and Core Web Vitals
 date: 2026-11-15
 summary: A practical guide to making React apps faster covering render and commit, measuring tools, memoization and the React Compiler, code splitting, data fetching, and server rendering.
-tag: react, performance, javascript, frontend, memoization, react-compiler, core-web-vitals, ssr
+tag: react, performance, javascript, frontend, react-compiler
 draft: false
 related: react-compiler,rules-of-react,javascript-bundlers,create-root-vs-hydrate-root,how-redux-works,caching-types-and-techniques
 ---

@@ -2,7 +2,7 @@
 title: How DNS Works - Resolution, Record Types, Caching, and Security Explained
 date: 2026-11-20
 summary: A detailed guide to the Domain Name System covering the namespace hierarchy, step-by-step resolution, record types, caching and TTLs, the wire protocol, DNSSEC and encrypted DNS, and how DNS is used in system design.
-tag: dns, networking, internet, system-design, distributed-systems, security, backend, devops, java
+tag: dns, networking, system-design, distributed-systems, backend
 draft: false
 related: load-balancing-explained,kubernetes-basics,kubernetes-interview-questions,owasp-top-10-explained,caching-types-and-techniques
 ---

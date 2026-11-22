@@ -2,7 +2,7 @@
 title: The Most Commonly Used Git Commands Every Developer Should Know
 date: 2026-10-24
 summary: A practical guide to everyday Git commands, explaining when to use each one with real examples, from setting up a repository to branching, merging, rebasing, and undoing mistakes.
-tag: git, version-control, git-commands, developer-tools, command-line, github
+tag: git, version-control, git-commands, developer-tools, github
 draft: false
 related: how-git-works-internally
 ---

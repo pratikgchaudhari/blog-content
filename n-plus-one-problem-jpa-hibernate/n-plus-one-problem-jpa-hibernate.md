@@ -2,7 +2,7 @@
 title: The N+1 Problem in JPA and Hibernate - Causes, Detection, Fetch Joins, Entity Graphs and Batch Fetching
 date: 2026-11-08
 summary: A detailed guide to the N+1 query problem covering lazy and eager fetching, SQL detection, fetch joins, entity graphs, batch and subselect fetching, DTO projections, pagination, and Spring Data JPA.
-tag: jpa, hibernate, spring-data-jpa, sql, databases, performance, fetching, java
+tag: jpa, hibernate, databases, performance, java
 draft: false
 related: top-10-questions-of-query-annotation-in-spring-jpa,spring-transactional-annotation-pitfalls,database-internals,how-database-indexes-work,latency-percentiles-explained
 ---

@@ -2,7 +2,7 @@
 title: Bloom Filters Explained - Bit Arrays, Hashing, False Positives and Membership Queries
 date: 2026-11-14
 summary: A detailed guide to Bloom filters covering membership queries, false-positive probability, sizing, double hashing, Java and Guava implementations, deletion, scalable filters, alternatives, and storage applications.
-tag: bloom-filter, probabilistic-data-structures, hashing, databases, caching, distributed-systems, java
+tag: bloom-filter, databases, caching, distributed-systems, java
 draft: false
 related: lsm-trees-explained,how-inverted-indexes-work,b-trees-explained,database-internals,caching-types-and-techniques
 ---

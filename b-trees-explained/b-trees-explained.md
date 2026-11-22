@@ -2,7 +2,7 @@
 title: B-Trees Explained - Splits, Merges, B+ Trees and How Database Indexes Work
 date: 2026-11-14
 summary: A detailed guide to B-trees and B+ trees covering pages, search, splits, borrowing and merging, database storage layouts, tree height, LSM trade-offs, and a Java implementation.
-tag: b-tree, b-plus-tree, data-structures, databases, indexing, mysql, postgresql, storage-engines, java
+tag: b-tree, data-structures, databases, storage-engines, java
 draft: false
 related: how-database-indexes-work,database-internals,lsm-trees-explained,how-inverted-indexes-work,virtual-memory-explained
 ---

@@ -2,7 +2,7 @@
 title: Kubernetes Basics Explained - Architecture, Workloads, Networking and Deployments
 date: 2026-11-21
 summary: A practical introduction to Kubernetes covering cluster architecture, core objects, Services and Ingress, storage, scaling, RBAC, and how a Deployment is applied and rolled out.
-tag: kubernetes, containers, devops, orchestration, docker, spring-boot, cloud-native, yaml
+tag: kubernetes, containers, devops, orchestration, docker
 draft: false
 related: how-docker-works-internally,kubernetes-interview-questions,microservices-vs-monolithic-architecture,load-balancing-explained,how-dns-works
 ---

@@ -2,7 +2,7 @@
 title: How Docker Works Internally - Namespaces, Cgroups, OverlayFS, containerd and runc Explained
 date: 2026-11-21
 summary: A detailed look under the hood of Docker covering its architecture, Linux namespaces and cgroups, overlay2 image layers, registries, networking, volumes, security, Docker Desktop, a hand-built container and running Java in containers.
-tag: docker, containers, linux, namespaces, cgroups, containerd, devops, java, backend
+tag: docker, containers, linux, devops, backend
 draft: false
 related: kubernetes-basics,kubernetes-interview-questions,linux-file-systems,linux-file-system-structure,virtual-memory-explained
 ---

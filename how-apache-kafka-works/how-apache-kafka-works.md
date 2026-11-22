@@ -2,7 +2,7 @@
 title: Apache Kafka Explained - Architecture, Internals, and Real-World Use Cases
 date: 2026-10-25
 summary: A detailed guide to Apache Kafka covering topics, partitions, brokers, producers, consumers, replication, delivery guarantees, KRaft, and the ecosystem, with code examples and practical tips.
-tag: kafka, apache-kafka, event-streaming, distributed-systems, messaging, system-design, java, backend
+tag: kafka, distributed-systems, system-design, java, backend
 draft: false
 related: kafka-interview-questions,microservices-vs-monolithic-architecture,domain-driven-design,wal-databases,latency-percentiles-explained
 ---

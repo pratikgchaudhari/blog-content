@@ -2,7 +2,7 @@
 title: How Database Indexes Work and When to Use Each Type
 date: 2026-10-25
 summary: A detailed guide to database indexes, covering how B-trees, hash, bitmap, GIN, GiST, BRIN, and other index types work under the hood and which queries each one is built for.
-tag: databases, indexes, b-tree, query-optimization, performance, PostgreSQL, MySQL, SQL
+tag: databases, indexes, b-tree, performance, SQL
 draft: false
 related: b-trees-explained,database-internals,lsm-trees-explained,how-inverted-indexes-work,mongodb-indexes-interview-questions
 ---

@@ -2,7 +2,7 @@
 title: Microservices vs Monolithic Architecture - A Down-to-Earth Guide
 date: 2026-11-01
 summary: A plain-language comparison of monoliths and microservices, using a food-delivery app's growth to show how each works, what each costs, and how to choose between them.
-tag: microservices, monolith, modular-monolith, software-architecture, system-design, distributed-systems, backend, java
+tag: microservices, monolith, software-architecture, system-design, distributed-systems
 draft: false
 related: domain-driven-design,how-apache-kafka-works,kubernetes-basics,kubernetes-interview-questions,load-balancing-explained
 ---

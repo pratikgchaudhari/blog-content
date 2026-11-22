@@ -2,7 +2,7 @@
 title: Load Balancing Explained - Algorithms, L4 vs L7, Health Checks and Real-World Setups
 date: 2026-11-07
 summary: How load balancers work, from L4 vs L7 and the classic algorithms (with Java code) to health checks, high availability, global load balancing and the mistakes that cause outages.
-tag: load-balancing, system-design, distributed-systems, networking, nginx, haproxy, kubernetes, backend, java
+tag: load-balancing, system-design, distributed-systems, networking, backend
 draft: false
 related: microservices-vs-monolithic-architecture,how-dns-works,kubernetes-basics,kubernetes-interview-questions,latency-percentiles-explained
 ---

@@ -2,7 +2,7 @@
 title: Caching Explained - Types of Cache, Caching Strategies, and When to Use Each
 date: 2026-10-25
 summary: A detailed guide to caching, covering the different layers of cache, read and write strategies, eviction policies, invalidation, and common pitfalls, with a use case for each.
-tag: caching, system-design, performance, redis, cdn, scalability, backend, distributed-systems
+tag: caching, system-design, performance, backend, distributed-systems
 draft: false
 related: the-redis-cache-nightmare-and-we-fixed-it-with-one-simple-command,bloom-filters-explained,latency-percentiles-explained,top-10-considerations-for-rate-limiter-system-design,react-performance-optimization
 ---
